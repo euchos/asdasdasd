@@ -623,3 +623,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [19Feb2025 22:09:41.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [19Feb2025 22:12:11.283] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b1ea572[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:42351) lost connection: Disconnected
 [19Feb2025 22:12:45.029] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@254e1ccd[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:36811) lost connection: Disconnected
+[19Feb2025 22:12:52.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[19Feb2025 22:12:52.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[19Feb2025 22:13:00.978] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51bfad00[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:43925) lost connection: Disconnected
+[19Feb2025 22:13:01.778] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e94eaa3[id=<null>,name=LaloChock,properties={},legacy=false] (/127.173.223.62:39079) lost connection: Disconnected
+[19Feb2025 22:13:06.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:37585] logged in with entity id 2576 at (-102.33561885566347, 67.0, -11.158583083519822)
+[19Feb2025 22:13:06.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[19Feb2025 22:13:29.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[19Feb2025 22:13:29.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[19Feb2025 22:13:30.627] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cf7ce9a[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:56943) lost connection: Disconnected
+[19Feb2025 22:13:49.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dreaddis[/127.184.237.100:59665] logged in with entity id 2664 at (-109.5, 68.0, 5.5)
+[19Feb2025 22:13:49.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis joined the game
+[19Feb2025 22:14:02.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:36689] logged in with entity id 2728 at (-103.76872324734344, 66.0, -11.681602930060736)
+[19Feb2025 22:14:02.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[19Feb2025 22:14:03.628] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60c41f26[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:44151) lost connection: Disconnected
+[19Feb2025 22:14:26.478] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42dd72cb[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:51175) lost connection: Disconnected
+[19Feb2025 22:14:32.779] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c73433f[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:43585) lost connection: Disconnected
+[19Feb2025 22:17:21.880] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f30fd1c[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:41117) lost connection: Disconnected
+[19Feb2025 22:20:29.678] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e4d9a28[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:56335) lost connection: Disconnected
+[19Feb2025 22:20:33.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Stone Age]
