@@ -642,3 +642,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [19Feb2025 22:17:21.880] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f30fd1c[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:41117) lost connection: Disconnected
 [19Feb2025 22:20:29.678] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e4d9a28[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:56335) lost connection: Disconnected
 [19Feb2025 22:20:33.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Stone Age]
+[19Feb2025 22:23:41.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Monster Hunter]
+[19Feb2025 22:23:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Monster Hunter]
+[19Feb2025 22:23:57.230] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@767eb847[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:47063) lost connection: Disconnected
+[19Feb2025 22:24:00.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Best Friends Forever]
+[19Feb2025 22:24:34.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Forbidden Fruit]
+[19Feb2025 22:27:26.479] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c844852[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:58185) lost connection: Disconnected
+[19Feb2025 22:27:42.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[19Feb2025 22:27:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[19Feb2025 22:28:03.378] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3050b3e9[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:49905) lost connection: Disconnected
+[19Feb2025 22:28:05.228] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@206e23a2[id=<null>,name=PoyoXF,properties={},legacy=false] (/127.130.173.208:57931) lost connection: Disconnected
+[19Feb2025 22:28:05.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Getting an Upgrade]
+[19Feb2025 22:30:40.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoyoXF[/127.130.173.208:37761] logged in with entity id 5947 at (-116.5, 74.0, -4.5)
+[19Feb2025 22:30:40.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF joined the game
+[19Feb2025 22:31:24.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:39533] logged in with entity id 6277 at (-106.49589856102328, 64.0, -12.680470354993323)
+[19Feb2025 22:31:24.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[19Feb2025 22:32:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Stone Age]
+[19Feb2025 22:32:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Getting an Upgrade]
+[19Feb2025 22:33:32.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@e92049d[id=<null>,name=Negrito,properties={},legacy=false] (/127.30.253.186:48451): Took too long to log in
+[19Feb2025 22:33:32.483] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e92049d[id=<null>,name=Negrito,properties={},legacy=false] (/127.30.253.186:48451) lost connection: Took too long to log in
+[19Feb2025 22:33:32.532] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Feb2025 22:34:25.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Fruits of the Field]
+[19Feb2025 22:36:22.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Acquire Hardware]
+[19Feb2025 22:39:28.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[19Feb2025 22:41:52.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [A Realistical Logical Ideologist]
+[19Feb2025 22:42:56.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [A Realistical Logical Ideologist]
