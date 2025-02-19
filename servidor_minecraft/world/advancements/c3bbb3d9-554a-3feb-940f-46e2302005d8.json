@@ -49,9 +49,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-19 22:50:33 +0000",
+      "minecraft:sunflower_plains": "2025-02-19 22:57:38 +0000",
       "minecraft:beach": "2025-02-19 22:09:18 +0000",
       "minecraft:river": "2025-02-19 22:07:21 +0000",
+      "minecraft:cold_ocean": "2025-02-19 23:15:42 +0000",
       "minecraft:forest": "2025-02-19 21:11:27 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-19 23:28:52 +0000",
+      "minecraft:ocean": "2025-02-19 22:50:12 +0000",
+      "minecraft:flower_forest": "2025-02-19 22:58:09 +0000",
+      "minecraft:meadow": "2025-02-19 23:18:03 +0000",
       "minecraft:plains": "2025-02-19 22:07:22 +0000"
     },
     "done": false
@@ -1835,6 +1842,342 @@
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2025-02-19 22:42:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-02-19 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-02-19 22:54:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2025-02-19 23:12:18 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/stick": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-02-19 22:56:21 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/woodcutter": {
+    "criteria": {
+      "has_pine_log": "2025-02-19 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-02-19 23:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-19 23:20:00 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_railing": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-19 22:55:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-02-19 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-19 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-02-19 23:12:35 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-02-19 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/find_meadow": {
+    "criteria": {
+      "meadow": "2025-02-19 23:18:03 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-19 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-02-19 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-19 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_wood": {
+    "criteria": {
+      "has_pine_log": "2025-02-19 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-19 22:59:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-02-19 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-02-19 22:59:20 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/shutter_block": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/fire_log": {
+    "criteria": {
+      "has_pine_log": "2025-02-19 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-19 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_barn_door": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/chair": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-02-19 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/table": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_rack": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-19 23:21:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-02-19 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_barn_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-19 22:55:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-02-19 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-02-19 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-19 23:21:02 +0000"
     },
     "done": true
   },
