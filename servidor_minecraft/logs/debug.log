@@ -5574,3 +5574,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [19Feb2025 23:33:00.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoyoXF[/127.130.173.208:34183] logged in with entity id 43735 at (1605.6281350037873, 68.0, -221.36140755654918)
 [19Feb2025 23:33:00.131] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@341b6866 into net.minecraft.network.Connection@7bf2d612
 [19Feb2025 23:33:00.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF joined the game
+[19Feb2025 23:34:06.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:34:06.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 23:34:11.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=64, z=-318} BlockPos{x=1737, y=62, z=-317}
+[19Feb2025 23:34:11.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1738, y=64, z=-318} BlockPos{x=1737, y=62, z=-317}
+[19Feb2025 23:34:12.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Isn't It Iron Pick]
+[19Feb2025 23:34:44.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Suit Up]
+[19Feb2025 23:35:34.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Diamonds!]
+[19Feb2025 23:35:46.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoyoXF lost connection: Disconnected
+[19Feb2025 23:35:46.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF left the game
+[19Feb2025 23:39:06.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:39:06.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 23:42:45.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found

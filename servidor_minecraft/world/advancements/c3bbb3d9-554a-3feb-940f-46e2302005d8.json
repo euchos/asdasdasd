@@ -52,11 +52,14 @@
       "minecraft:deep_ocean": "2025-02-19 22:50:33 +0000",
       "minecraft:sunflower_plains": "2025-02-19 22:57:38 +0000",
       "minecraft:beach": "2025-02-19 22:09:18 +0000",
+      "minecraft:dark_forest": "2025-02-19 23:36:25 +0000",
       "minecraft:river": "2025-02-19 22:07:21 +0000",
       "minecraft:cold_ocean": "2025-02-19 23:15:42 +0000",
       "minecraft:forest": "2025-02-19 21:11:27 +0000",
+      "minecraft:lush_caves": "2025-02-19 23:34:34 +0000",
       "minecraft:deep_cold_ocean": "2025-02-19 23:28:52 +0000",
       "minecraft:ocean": "2025-02-19 22:50:12 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-19 23:38:39 +0000",
       "minecraft:flower_forest": "2025-02-19 22:58:09 +0000",
       "minecraft:meadow": "2025-02-19 23:18:03 +0000",
       "minecraft:plains": "2025-02-19 22:07:22 +0000"
@@ -1496,7 +1499,8 @@
     "criteria": {
       "cooked_mutton": "2025-02-19 22:26:27 +0000",
       "cooked_beef": "2025-02-19 22:16:53 +0000",
-      "mutton": "2025-02-19 22:08:56 +0000"
+      "mutton": "2025-02-19 22:08:56 +0000",
+      "bread": "2025-02-19 23:35:08 +0000"
     },
     "done": false
   },
@@ -1544,6 +1548,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-19 23:33:38 +0000",
       "minecraft:skeleton": "2025-02-19 22:23:41 +0000",
       "minecraft:spider": "2025-02-19 22:23:56 +0000",
       "minecraft:zombie": "2025-02-19 22:25:21 +0000",
@@ -1869,6 +1874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-19 23:30:31 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/stick": {
     "criteria": {
       "has_pine_planks": "2025-02-19 23:18:43 +0000"
@@ -1884,6 +1895,12 @@
   "meadow:recipes/woodcutter": {
     "criteria": {
       "has_pine_log": "2025-02-19 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
     },
     "done": true
   },
@@ -1905,9 +1922,27 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-02-19 23:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_slime_ball": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
     },
     "done": true
   },
@@ -1965,9 +2000,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-19 23:30:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2025-02-19 23:35:04 +0000"
     },
     "done": true
   },
@@ -1977,9 +2024,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
+    },
+    "done": true
+  },
   "meadow:main/find_meadow": {
     "criteria": {
       "meadow": "2025-02-19 23:18:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-02-19 23:35:04 +0000"
     },
     "done": true
   },
@@ -2001,15 +2060,33 @@
     },
     "done": true
   },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2025-02-19 22:52:38 +0000"
     },
     "done": true
   },
+  "meadow:recipes/cheese_tart": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-19 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
     },
     "done": true
   },
@@ -2073,9 +2150,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/pine_barn_door": {
     "criteria": {
       "has_pine_planks": "2025-02-19 23:18:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
     },
     "done": true
   },
@@ -2097,9 +2186,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-19 23:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-19 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-19 23:30:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-19 23:32:04 +0000"
     },
     "done": true
   },
@@ -2118,6 +2231,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-02-19 23:21:02 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheesecake": {
+    "criteria": {
+      "has_wheat": "2025-02-19 23:34:56 +0000"
     },
     "done": true
   },
