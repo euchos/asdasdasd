@@ -1724,18 +1724,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-19 22:35:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-19 22:35:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-19 22:33:39 +0000"
@@ -1766,12 +1754,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-19 22:35:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-19 22:33:39 +0000"
@@ -1790,15 +1772,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:33:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-19 22:35:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+  "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
-      "has_boat": "2025-02-19 22:33:39 +0000"
+      "has_any_ingredient": "2025-02-19 22:35:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 22:35:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 22:35:38 +0000"
     },
     "done": true
   },
@@ -1811,6 +1811,30 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-19 22:35:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-02-19 22:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-19 22:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-19 22:42:50 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-02-19 22:42:56 +0000"
     },
     "done": true
   },

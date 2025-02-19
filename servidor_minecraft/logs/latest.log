@@ -667,3 +667,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [19Feb2025 22:39:28.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [19Feb2025 22:41:52.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [A Realistical Logical Ideologist]
 [19Feb2025 22:42:56.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [A Realistical Logical Ideologist]
+[19Feb2025 22:43:49.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [A Realistical Logical Ideologist]
+[19Feb2025 22:45:31.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Forbidden Fruit]
+[19Feb2025 22:47:15.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[19Feb2025 22:47:15.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[19Feb2025 22:47:36.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:60007] logged in with entity id 11073 at (-113.69999998807907, 74.94252801654054, -20.377725973693448)
+[19Feb2025 22:47:36.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[19Feb2025 22:47:53.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[19Feb2025 22:47:53.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[19Feb2025 22:48:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Fruits of the Field]
+[19Feb2025 22:49:27.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:43763] logged in with entity id 11503 at (-113.69999998807907, 74.0, -20.377725973693448)
+[19Feb2025 22:49:27.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[19Feb2025 22:49:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[19Feb2025 22:50:41.050] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[19Feb2025 22:50:41.051] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[19Feb2025 22:51:50.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dreaddis) moved wrongly! 0.2664718264692496
+[19Feb2025 22:51:50.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dreaddis) moved wrongly! 0.5676795497030156
+[19Feb2025 22:51:51.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dreaddis) moved wrongly! 0.7540201510078646
+[19Feb2025 22:51:51.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dreaddis) moved wrongly! 0.9217266877395218
+[19Feb2025 22:51:51.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dreaddis) moved wrongly! 1.072662566799579
+[19Feb2025 22:51:51.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of dreaddis) moved wrongly! 1.2085048543550414
+[19Feb2025 22:52:28.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Sky of Beginning]
+[19Feb2025 22:52:29.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Sky of Beginning]
+[19Feb2025 22:52:38.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Sky of Beginning]

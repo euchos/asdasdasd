@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
@@ -68,6 +74,18 @@
   "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-02-19 22:48:29 +0000"
     },
     "done": true
   },
@@ -119,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-02-19 22:17:30 +0000"
@@ -128,6 +152,12 @@
   "tconstruct:recipes/misc/tables/pattern": {
     "criteria": {
       "has_item": "2025-02-19 22:17:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-02-19 22:48:29 +0000"
     },
     "done": true
   },
@@ -164,6 +194,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-02-19 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -221,9 +257,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:39 +0000"
     },
     "done": true
   },
@@ -269,6 +317,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
@@ -302,6 +362,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-19 22:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:40:42 +0000"
     },
     "done": true
   },
@@ -371,15 +437,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:40:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-02-19 22:17:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-19 22:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-19 22:20:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -403,6 +493,12 @@
       "minecraft:zombie": "2025-02-19 22:25:28 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-19 22:40:19 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
@@ -464,9 +560,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:40:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -548,6 +662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-19 22:42:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 22:36:22 +0000"
@@ -557,6 +677,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2025-02-19 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -578,6 +704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:40:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 22:36:22 +0000"
@@ -593,6 +725,12 @@
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -644,9 +782,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_planks": "2025-02-19 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-19 22:48:29 +0000"
     },
     "done": true
   },
@@ -665,6 +815,18 @@
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-02-19 22:48:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:39 +0000"
     },
     "done": true
   },
@@ -800,9 +962,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-19 22:40:19 +0000"
     },
     "done": true
   },
@@ -864,6 +1038,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-02-19 22:39:37 +0000"
     },
     "done": true
   },
@@ -933,6 +1113,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2025-02-19 22:17:30 +0000"
@@ -954,6 +1140,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-02-19 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -1089,6 +1281,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
@@ -1209,6 +1407,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/part_chest": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
@@ -1230,6 +1434,12 @@
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -1431,6 +1641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-19 22:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 22:36:22 +0000"
@@ -1455,6 +1671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2025-02-19 22:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-19 22:20:33 +0000"
@@ -1476,6 +1698,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-19 22:20:33 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -1569,6 +1797,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-19 22:42:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-02-19 22:17:30 +0000"
@@ -1623,6 +1857,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_oak_planks": "2025-02-19 22:17:30 +0000"
@@ -1665,6 +1905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-19 22:48:29 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2025-02-19 22:36:22 +0000"
@@ -1680,6 +1926,12 @@
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:40:42 +0000"
     },
     "done": true
   },
@@ -1749,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-19 22:42:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-19 22:27:18 +0000"
@@ -1770,6 +2028,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-19 22:42:29 +0000"
     },
     "done": true
   },
@@ -1857,9 +2121,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:40:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_planks": "2025-02-19 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:40:42 +0000"
     },
     "done": true
   },
@@ -1926,6 +2202,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_builder": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:39 +0000"
     },
     "done": true
   },
@@ -2037,6 +2319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 22:40:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-19 22:24:55 +0000"
@@ -2103,6 +2391,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2025-02-19 22:17:30 +0000"
@@ -2166,6 +2466,12 @@
   "vinery:recipes/dark_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -2265,6 +2571,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-02-19 22:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:40:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-02-19 22:17:30 +0000"
@@ -2298,6 +2616,12 @@
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2025-02-19 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -2367,6 +2691,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2025-02-19 22:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 22:36:22 +0000"
@@ -2394,7 +2724,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-02-19 22:24:41 +0000",
-      "minecraft:forest": "2025-02-19 22:13:50 +0000"
+      "minecraft:river": "2025-02-19 22:48:30 +0000",
+      "minecraft:forest": "2025-02-19 22:13:50 +0000",
+      "minecraft:plains": "2025-02-19 22:48:47 +0000"
     },
     "done": false
   },
@@ -2419,6 +2751,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2025-02-19 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:40:35 +0000"
     },
     "done": true
   },
@@ -2503,6 +2841,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-02-19 22:46:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
@@ -2533,6 +2877,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-19 22:40:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-02-19 22:17:36 +0000"
@@ -2548,6 +2898,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_planks": "2025-02-19 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-02-19 22:43:49 +0000"
     },
     "done": true
   },
