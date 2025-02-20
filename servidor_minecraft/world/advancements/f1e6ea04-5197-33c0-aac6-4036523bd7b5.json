@@ -1524,6 +1524,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-20 02:40:28 +0000",
       "cooked_mutton": "2025-02-20 00:15:56 +0000",
       "cooked_beef": "2025-02-19 22:46:46 +0000",
       "beef": "2025-02-19 22:40:29 +0000",
@@ -4258,9 +4259,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-20 02:33:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-20 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-20 02:33:49 +0000"
     },
     "done": true
   },
