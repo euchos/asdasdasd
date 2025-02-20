@@ -702,3 +702,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [20Feb2025 22:03:30.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10721, y=117, z=5210} BlockPos{x=10721, y=115, z=5210}
 [20Feb2025 22:03:30.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10721, y=117, z=5210} BlockPos{x=10721, y=115, z=5210}
 [20Feb2025 22:03:30.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10718, y=117, z=5208} BlockPos{x=10721, y=115, z=5210}
+[20Feb2025 22:07:25.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Zombie
+[20Feb2025 22:07:31.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=76, z=-8}
+[20Feb2025 22:07:31.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=77, z=-8}
+[20Feb2025 22:07:32.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=76, z=-8}
+[20Feb2025 22:07:32.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=77, z=-8}
+[20Feb2025 22:07:33.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=76, z=-8}
+[20Feb2025 22:07:36.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=76, z=-8}
+[20Feb2025 22:07:36.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=77, z=-8}
+[20Feb2025 22:07:37.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=76, z=-8}
+[20Feb2025 22:07:37.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=77, z=-8}
+[20Feb2025 22:07:38.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=76, z=-8}
+[20Feb2025 22:08:23.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[20Feb2025 22:08:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[20Feb2025 22:08:25.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[20Feb2025 22:08:25.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[20Feb2025 22:08:25.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Kicked NegritoV: Kicked by an operator]
+[20Feb2025 22:08:25.573] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Feb2025 22:08:29.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Kicked PoyoXF: Kicked by an operator]
+[20Feb2025 22:08:29.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoyoXF lost connection: Kicked by an operator
+[20Feb2025 22:08:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF left the game
+[20Feb2025 22:08:38.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.150.94.48:34675] logged in with entity id 28945 at (-102.94380891598365, 65.0, -12.699999988079071)
+[20Feb2025 22:08:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[20Feb2025 22:08:44.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[20Feb2025 22:09:07.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[20Feb2025 22:09:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[20Feb2025 22:09:19.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 22:10:45.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 22:10:47.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 22:10:50.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 22:10:54.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 22:11:03.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.150.94.48:48959] logged in with entity id 29592 at (-104.34540666906021, 65.0, -11.81991220140361)
+[20Feb2025 22:11:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[20Feb2025 22:11:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported Dedman95 to LaloChock]
+[20Feb2025 22:15:58.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Acquire Hardware]
