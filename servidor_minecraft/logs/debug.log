@@ -5820,3 +5820,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [20Feb2025 22:55:53.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
 [20Feb2025 22:57:01.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Feb2025 22:57:01.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 22:59:06.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 22:59:17.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was blown up by Creeper
+[20Feb2025 22:59:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 22:59:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 23:00:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 23:00:20.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 23:00:27.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 23:00:36.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Zombie
+[20Feb2025 23:00:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Zombie
+[20Feb2025 23:01:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 23:01:23.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Zombie
+[20Feb2025 23:02:01.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:02:01.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 23:04:04.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was blown up by Creeper
+[20Feb2025 23:04:38.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 23:07:01.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:07:01.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 23:09:34.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Forbidden Fruit]
+[20Feb2025 23:09:57.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Ice Bucket Challenge]
+[20Feb2025 23:10:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Sky of Beginning]
+[20Feb2025 23:12:01.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:12:01.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 23:14:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Monster Hunter]
+[20Feb2025 23:14:26.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Zombie
+[20Feb2025 23:17:01.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:17:01.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
