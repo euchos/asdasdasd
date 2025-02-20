@@ -1524,6 +1524,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-20 00:15:56 +0000",
       "cooked_beef": "2025-02-19 22:46:46 +0000",
       "beef": "2025-02-19 22:40:29 +0000",
       "porkchop": "2025-02-19 22:36:58 +0000",
@@ -2341,6 +2342,90 @@
   "vinery:recipes/red_grape_bag": {
     "criteria": {
       "has_red_grape": "2025-02-20 00:13:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-20 00:14:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-20 00:14:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-20 00:14:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-02-20 00:15:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime_double": {
+    "criteria": {
+      "has_item": "2025-02-20 00:15:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_petal_block": {
+    "criteria": {
+      "has_item": "2025-02-20 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_alt_item": "2025-02-20 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_lime": {
+    "criteria": {
+      "has_item": "2025-02-20 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/lime_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-20 00:15:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-02-20 00:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-20 00:15:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-20 00:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-02-20 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-02-20 00:25:49 +0000"
     },
     "done": true
   },
