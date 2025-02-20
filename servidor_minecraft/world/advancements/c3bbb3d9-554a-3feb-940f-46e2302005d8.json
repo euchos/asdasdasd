@@ -3460,5 +3460,41 @@
     },
     "done": true
   },
+  "meadow:main/get_salt": {
+    "criteria": {
+      "salt": "2025-02-20 00:26:29 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_bricks_wall": {
+    "criteria": {
+      "has_cobbled_limestone": "2025-02-20 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone": {
+    "criteria": {
+      "has_cobbled_limestone": "2025-02-20 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-20 00:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-20 00:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-20 00:36:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
