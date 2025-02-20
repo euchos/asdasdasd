@@ -4407,3 +4407,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [20Feb2025 21:52:01.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Feb2025 21:55:06.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10326, y=66, z=5425} BlockPos{x=10326, y=64, z=5423}
 [20Feb2025 21:56:16.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10571, y=64, z=5324} BlockPos{x=10573, y=63, z=5324}
+[20Feb2025 21:56:42.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Cherry Picker]
+[20Feb2025 21:57:01.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 21:57:01.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 21:57:53.835] [Server thread/DEBUG] [mixin/]: Mixing ai.task.memory_change_counting.BehaviorMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.Behavior
+[20Feb2025 21:57:53.862] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.GateBehaviorMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.GateBehavior
+[20Feb2025 21:57:53.871] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.ShufflingListMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.ShufflingList
+[20Feb2025 21:58:01.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Electric Magic]
+[20Feb2025 21:58:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Sky of Beginning]
+[20Feb2025 21:58:56.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 3 [Stone] to LaloChock]
+[20Feb2025 21:59:58.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Stone Age]
+[20Feb2025 21:59:59.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 22:00:03.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 22:00:20.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Getting an Upgrade]
+[20Feb2025 22:01:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 22:01:50.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 22:01:56.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to PoyoXF]
+[20Feb2025 22:02:01.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 22:02:01.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 22:02:49.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was blown up by Creeper
+[20Feb2025 22:03:08.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 22:03:17.842] [Server thread/DEBUG] [mixin/]: Mixing ai.poi.tasks.LocateHidingPlaceMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[20Feb2025 22:03:29.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10721, y=117, z=5210} BlockPos{x=10721, y=115, z=5210}
+[20Feb2025 22:03:30.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10721, y=117, z=5210} BlockPos{x=10721, y=115, z=5210}
+[20Feb2025 22:03:30.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10721, y=117, z=5210} BlockPos{x=10721, y=115, z=5210}
+[20Feb2025 22:03:30.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10721, y=117, z=5210} BlockPos{x=10721, y=115, z=5210}
+[20Feb2025 22:03:30.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10718, y=117, z=5208} BlockPos{x=10721, y=115, z=5210}
+[20Feb2025 22:06:26.619] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=10417, y=66, z=5394}
+[20Feb2025 22:06:36.768] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=10416, y=67, z=5394}
