@@ -747,3 +747,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [20Feb2025 22:20:12.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF joined the game
 [20Feb2025 22:25:41.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.31.144.232:38671] logged in with entity id 35912 at (10434.783537792651, 67.0, 5451.589035323069)
 [20Feb2025 22:25:41.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[20Feb2025 22:31:28.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Sweet Dreams]
+[20Feb2025 22:32:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Hunt and Gather]
+[20Feb2025 22:32:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [A Seedy Place]
+[20Feb2025 22:34:11.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 hit the ground too hard
+[20Feb2025 22:35:39.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[20Feb2025 22:35:39.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[20Feb2025 22:36:43.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Not Today, Thank You]
+[20Feb2025 22:36:53.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Skeleton
+[20Feb2025 22:45:03.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Spider
+[20Feb2025 22:46:51.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoyoXF lost connection: Disconnected
+[20Feb2025 22:46:51.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF left the game
+[20Feb2025 22:47:58.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Isn't It Iron Pick]
+[20Feb2025 22:48:24.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:60679] logged in with entity id 42658 at (10656.111991762584, 83.0, 5301.899986111775)
+[20Feb2025 22:48:24.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[20Feb2025 22:50:31.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[20Feb2025 22:50:31.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[20Feb2025 22:51:29.411] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@313e53ea[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:41789): Took too long to log in
+[20Feb2025 22:51:29.412] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@313e53ea[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:41789) lost connection: Took too long to log in
+[20Feb2025 22:51:29.460] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Feb2025 22:52:00.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:57775] logged in with entity id 44096 at (10665.421397391277, 103.0, 5304.21060134977)
+[20Feb2025 22:52:00.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[20Feb2025 22:54:09.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[20Feb2025 22:54:09.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[20Feb2025 22:55:00.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 hit the ground too hard
+[20Feb2025 22:55:53.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:59441] logged in with entity id 45649 at (10665.421397391277, 103.0, 5304.21060134977)
+[20Feb2025 22:55:53.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
