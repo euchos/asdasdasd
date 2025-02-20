@@ -5586,3 +5586,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [19Feb2025 23:39:06.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Feb2025 23:39:06.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Feb2025 23:42:45.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[19Feb2025 23:44:06.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:44:06.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 23:49:06.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:49:06.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 23:54:06.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:54:06.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 23:57:38.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set LaloChock's game mode to Spectator Mode
+[19Feb2025 23:58:05.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made LaloChock a server operator
+[19Feb2025 23:58:07.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[19Feb2025 23:58:17.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[19Feb2025 23:59:06.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:59:06.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 23:59:59.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:00:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Diamonds!]
+[20Feb2025 00:00:16.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Acquire Hardware]
+[20Feb2025 00:00:17.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:04:06.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 00:04:06.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
