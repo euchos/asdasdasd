@@ -791,3 +791,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [20Feb2025 23:10:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Sky of Beginning]
 [20Feb2025 23:14:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Monster Hunter]
 [20Feb2025 23:14:26.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Zombie
+[20Feb2025 23:17:51.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoyoXF[/127.185.106.221:36597] logged in with entity id 58940 at (10270.610205033036, 12.0, 5330.300000011921)
+[20Feb2025 23:17:51.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF joined the game
+[20Feb2025 23:18:58.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Sweet Dreams]
+[20Feb2025 23:24:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was blown up by Creeper
+[20Feb2025 23:24:41.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Drowned
+[20Feb2025 23:24:42.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was blown up by Creeper
+[20Feb2025 23:25:53.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Ice Bucket Challenge]
+[20Feb2025 23:26:03.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:47419] logged in with entity id 63958 at (10409.423312883444, 65.0, 5388.129872656536)
+[20Feb2025 23:26:03.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[20Feb2025 23:27:38.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set the world spawn point to 10424, 63, 5410 [0.0]]
+[20Feb2025 23:28:01.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported PoyoXF to LaloChock]
+[20Feb2025 23:29:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [A Pinch of Alpine]
+[20Feb2025 23:29:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Acquire Hardware]
+[20Feb2025 23:30:11.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 23:30:41.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was blown up by Creeper
+[20Feb2025 23:31:08.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 23:31:31.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[20Feb2025 23:31:37.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10428, y=62, z=5429} BlockPos{x=10434, y=62, z=5426}
+[20Feb2025 23:31:44.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10428, y=62, z=5429} BlockPos{x=10434, y=62, z=5426}
+[20Feb2025 23:32:20.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Enchanter]
+[20Feb2025 23:34:50.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV drowned
+[20Feb2025 23:37:14.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10447, y=65, z=5335} BlockPos{x=10447, y=63, z=5336}
+[20Feb2025 23:37:14.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10447, y=65, z=5335} BlockPos{x=10447, y=63, z=5336}
+[20Feb2025 23:37:33.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Isn't It Iron Pick]
