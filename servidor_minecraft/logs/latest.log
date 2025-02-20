@@ -867,3 +867,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [20Feb2025 00:50:47.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
 [20Feb2025 00:50:52.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
 [20Feb2025 00:50:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:51:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:51:35.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:51:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:51:48.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:51:52.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:52:15.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:52:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock was slain by Enderman
+[20Feb2025 00:53:20.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock was slain by Enderman
+[20Feb2025 00:53:33.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Diamonds!]
+[20Feb2025 00:53:38.206] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[20Feb2025 00:53:38.208] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[20Feb2025 00:53:47.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock was slain by Enderman
+[20Feb2025 00:54:23.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Applied effect Strength to LaloChock]
+[20Feb2025 00:54:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Suit Up]
+[20Feb2025 00:55:03.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported dreaddis to LaloChock]
+[20Feb2025 00:56:45.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[20Feb2025 00:56:45.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[20Feb2025 01:01:33.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10320, y=107, z=5363} BlockPos{x=10321, y=107, z=5363}
+[20Feb2025 01:02:50.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Suit Up]
+[20Feb2025 01:03:36.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis has made the advancement [Wild Harvest]
+[20Feb2025 01:06:36.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dreaddis> sexo
+[20Feb2025 01:08:20.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis was slain by Zombie
+[20Feb2025 01:09:44.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:57993] logged in with entity id 17109 at (10416.37646253123, 67.0, 5389.949122721064)
+[20Feb2025 01:09:44.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[20Feb2025 01:09:49.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Feb2025 01:09:49.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Treecapitator<--[HERE]
+[20Feb2025 01:10:32.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 01:10:34.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 01:11:49.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dreaddis> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[20Feb2025 01:11:51.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoyoXF lost connection: Disconnected
+[20Feb2025 01:11:51.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF left the game
+[20Feb2025 01:12:04.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoyoXF[/127.130.173.208:58345] logged in with entity id 18056 at (10485.186167743324, 105.0, 5512.699999988079)
+[20Feb2025 01:12:04.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF joined the game
+[20Feb2025 01:12:43.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 01:12:58.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 01:15:44.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10483, y=68, z=5459} BlockPos{x=10485, y=67, z=5460}
+[20Feb2025 01:16:23.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 01:16:36.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 01:16:52.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 01:17:27.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 01:17:33.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 01:17:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 01:17:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 01:17:52.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 01:17:57.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 01:17:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 01:18:12.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 01:18:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
