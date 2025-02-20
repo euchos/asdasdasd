@@ -4112,12 +4112,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/magenta_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-02-20 01:47:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-02-20 01:45:35 +0000"
@@ -4166,12 +4160,6 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_magenta": {
-    "criteria": {
-      "has_item": "2025-02-20 01:47:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-20 01:45:35 +0000"
@@ -4217,6 +4205,24 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-20 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-20 01:47:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2025-02-20 01:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-20 02:09:26 +0000"
     },
     "done": true
   },
