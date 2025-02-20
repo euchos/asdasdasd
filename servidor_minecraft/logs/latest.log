@@ -1,3 +1,25 @@
 [20Feb2025 00:00:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Diamonds!]
 [20Feb2025 00:00:16.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Acquire Hardware]
 [20Feb2025 00:00:17.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:05:42.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:06:17.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dreaddis lost connection: Disconnected
+[20Feb2025 00:06:17.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis left the game
+[20Feb2025 00:06:17.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Kicked dreaddis: Kicked by an operator]
+[20Feb2025 00:06:17.410] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Feb2025 00:06:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:06:24.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:08:28.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:08:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:08:46.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Hunt and Gather]
+[20Feb2025 00:08:48.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:09:03.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:09:04.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:10:27.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoyoXF[/127.130.173.208:60023] logged in with entity id 70163 at (1792.699999988079, 65.0, -319.69999998807907)
+[20Feb2025 00:10:27.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF joined the game
+[20Feb2025 00:10:27.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock moved too quickly! -4.752285404585564,0.0,9.154270968228047
+[20Feb2025 00:11:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:11:18.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported PoyoXF to LaloChock]
+[20Feb2025 00:11:49.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 00:12:46.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 00:12:47.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported PoyoXF to LaloChock]
+[20Feb2025 00:13:12.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10424, y=64, z=5405} BlockPos{x=10424, y=64, z=5403}
