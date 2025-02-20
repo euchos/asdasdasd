@@ -4229,27 +4229,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-02-20 02:29:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-02-20 02:19:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-02-20 02:29:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-20 02:30:47 +0000"
     },
     "done": true
   },
@@ -4259,21 +4241,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "has_iron_nugget": "2025-02-20 02:33:49 +0000"
+      "has_iron_backpack": "2025-02-20 02:21:19 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fish_stew": {
+  "vinery:recipes/white_grape_bag": {
     "criteria": {
-      "has_any_ingredient": "2025-02-20 02:30:47 +0000"
+      "has_white_grape": "2025-02-20 02:22:00 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/television_remote": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_iron_nugget": "2025-02-20 02:33:49 +0000"
+      "has_black_wool": "2025-02-20 02:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-20 02:29:39 +0000"
     },
     "done": true
   },
@@ -4283,15 +4271,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/barbecue_stick": {
+  "ad_astra:recipes/misc/black_flag": {
     "criteria": {
-      "has_onion": "2025-02-20 02:30:47 +0000"
+      "has_black_flag": "2025-02-20 02:29:39 +0000"
     },
     "done": true
   },
-  "vinery:recipes/white_grape_bag": {
+  "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
-      "has_white_grape": "2025-02-20 02:22:00 +0000"
+      "has_any_ingredient": "2025-02-20 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-20 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-20 02:30:47 +0000"
     },
     "done": true
   },
@@ -4307,18 +4307,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/black_flag": {
-    "criteria": {
-      "has_black_flag": "2025-02-20 02:29:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-02-20 02:21:19 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-02-20 02:30:47 +0000"
@@ -4328,6 +4316,18 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-20 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-20 02:33:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-20 02:33:49 +0000"
     },
     "done": true
   },

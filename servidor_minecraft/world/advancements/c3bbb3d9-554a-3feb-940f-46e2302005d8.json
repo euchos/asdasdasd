@@ -1559,6 +1559,7 @@
       "minecraft:pillager": "2025-02-19 23:33:38 +0000",
       "minecraft:skeleton": "2025-02-19 22:23:41 +0000",
       "minecraft:spider": "2025-02-19 22:23:56 +0000",
+      "minecraft:creeper": "2025-02-20 21:21:20 +0000",
       "minecraft:enderman": "2025-02-20 00:54:24 +0000",
       "minecraft:zombie": "2025-02-19 22:25:21 +0000",
       "minecraft:zombie_villager": "2025-02-19 22:23:47 +0000"
@@ -4050,9 +4051,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-02-20 21:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-20 21:09:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-02-20 21:17:13 +0000"
     },
     "done": true
   },
@@ -4062,15 +4075,33 @@
     },
     "done": true
   },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-02-20 21:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-20 21:09:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:16:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-02-20 21:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:16:04 +0000"
     },
     "done": true
   },
@@ -4083,6 +4114,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-20 21:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:16:04 +0000"
     },
     "done": true
   },
@@ -4122,6 +4159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:16:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-02-20 21:10:17 +0000"
@@ -4143,6 +4186,12 @@
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-02-20 21:10:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-02-20 21:17:13 +0000"
     },
     "done": true
   },
@@ -4278,9 +4327,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-20 21:09:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-02-20 21:17:13 +0000"
     },
     "done": true
   },
@@ -4311,6 +4372,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-20 21:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:16:04 +0000"
     },
     "done": true
   },
