@@ -2254,7 +2254,9 @@
       "minecraft:creeper": "2025-02-19 23:19:58 +0000",
       "minecraft:slime": "2025-02-19 23:14:23 +0000",
       "minecraft:phantom": "2025-02-20 01:32:50 +0000",
-      "minecraft:zombie": "2025-02-20 01:09:04 +0000"
+      "minecraft:enderman": "2025-02-20 02:14:28 +0000",
+      "minecraft:zombie": "2025-02-20 01:09:04 +0000",
+      "minecraft:zombie_villager": "2025-02-20 02:14:42 +0000"
     },
     "done": false
   },
@@ -4223,6 +4225,18 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-02-20 02:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-20 02:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-20 02:19:47 +0000"
     },
     "done": true
   },
