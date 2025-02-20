@@ -927,3 +927,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [20Feb2025 01:30:22.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
 [20Feb2025 01:30:22.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
 [20Feb2025 01:37:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [A Pinch of Alpine]
+[20Feb2025 01:43:56.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoyoXF lost connection: Disconnected
+[20Feb2025 01:43:56.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF left the game
+[20Feb2025 01:44:41.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoyoXF[/127.130.173.208:57921] logged in with entity id 28910 at (10651.823509487094, -27.0, 5474.300000011921)
+[20Feb2025 01:44:41.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF joined the game
+[20Feb2025 01:46:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF was blown up by Creeper
+[20Feb2025 01:46:56.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:57239] logged in with entity id 30131 at (10414.071089148572, 69.0, 5373.426615721725)
+[20Feb2025 01:46:56.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[20Feb2025 01:48:25.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to dreaddis]
