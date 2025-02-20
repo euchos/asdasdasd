@@ -2253,6 +2253,7 @@
       "minecraft:spider": "2025-02-19 23:21:08 +0000",
       "minecraft:creeper": "2025-02-19 23:19:58 +0000",
       "minecraft:slime": "2025-02-19 23:14:23 +0000",
+      "minecraft:phantom": "2025-02-20 01:32:50 +0000",
       "minecraft:zombie": "2025-02-20 01:09:04 +0000"
     },
     "done": false
@@ -3895,6 +3896,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2025-02-20 01:39:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_white": {
     "criteria": {
       "has_item": "2025-02-20 01:27:16 +0000"
@@ -3925,6 +3932,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-20 01:34:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-02-20 01:30:42 +0000"
@@ -3946,6 +3959,12 @@
   "botania:recipes/tools/horn_grass": {
     "criteria": {
       "has_item": "2025-02-20 01:29:58 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/get_salt": {
+    "criteria": {
+      "salt": "2025-02-20 01:37:31 +0000"
     },
     "done": true
   },
@@ -3982,6 +4001,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-02-20 01:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-20 01:34:47 +0000"
     },
     "done": true
   },

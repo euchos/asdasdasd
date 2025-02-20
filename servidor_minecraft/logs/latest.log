@@ -926,3 +926,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [20Feb2025 01:28:41.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Sweet Dreams]
 [20Feb2025 01:30:22.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
 [20Feb2025 01:30:22.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[20Feb2025 01:37:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [A Pinch of Alpine]
