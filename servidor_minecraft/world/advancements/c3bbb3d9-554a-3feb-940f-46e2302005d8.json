@@ -3803,6 +3803,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-02-20 02:28:15 +0000"
+    },
+    "done": false
+  },
   "vinery:recipes/dark_cherry_shelf": {
     "criteria": {
       "has_spruce_planks": "2025-02-20 02:09:57 +0000"
@@ -3927,6 +3933,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-02-20 02:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-20 02:28:15 +0000"
     },
     "done": true
   },
