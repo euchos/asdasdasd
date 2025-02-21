@@ -6235,3 +6235,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [21Feb2025 00:07:01.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Feb2025 00:07:01.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Feb2025 00:07:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[21Feb2025 00:08:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[21Feb2025 00:09:04.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[21Feb2025 00:10:13.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[21Feb2025 00:11:12.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[21Feb2025 00:11:18.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Cherry Picker]
+[21Feb2025 00:12:01.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 00:12:01.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 00:12:25.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[21Feb2025 00:12:25.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[21Feb2025 00:15:50.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Crops of the Wild]
+[21Feb2025 00:16:19.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Zombie
+[21Feb2025 00:17:01.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 00:17:01.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 00:17:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Zombie
+[21Feb2025 00:18:00.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Zombie

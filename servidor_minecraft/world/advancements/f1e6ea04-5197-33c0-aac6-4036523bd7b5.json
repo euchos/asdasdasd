@@ -6872,6 +6872,12 @@
     },
     "done": true
   },
+  "meadow:recipes/cheese_form": {
+    "criteria": {
+      "has_pine_slab": "2025-02-21 00:11:13 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/straw_hat": {
     "criteria": {
       "has_wheat": "2025-02-20 23:34:32 +0000"
@@ -6893,6 +6899,12 @@
   "meadow:recipes/cheesecake": {
     "criteria": {
       "has_wheat": "2025-02-20 23:34:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-02-21 00:15:40 +0000"
     },
     "done": true
   },
