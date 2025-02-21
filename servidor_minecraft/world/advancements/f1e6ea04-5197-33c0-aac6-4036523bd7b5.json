@@ -6674,6 +6674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/woodcutter": {
     "criteria": {
       "has_pine_log": "2025-02-20 23:40:31 +0000"
@@ -6698,15 +6704,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-21 00:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-20 23:34:32 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-02-20 23:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
     },
     "done": true
   },
@@ -6734,6 +6764,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2025-02-20 23:48:36 +0000"
@@ -6746,9 +6782,39 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2025-02-21 00:30:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/green_shiny_flower": {
     "criteria": {
       "has_item": "2025-02-20 23:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-21 00:30:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-02-21 00:28:19 +0000"
     },
     "done": true
   },
@@ -6761,6 +6827,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-02-20 23:34:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
     },
     "done": true
   },
@@ -6794,9 +6866,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-20 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
     },
     "done": true
   },
@@ -6818,6 +6902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/shutter_block": {
     "criteria": {
       "has_pine_planks": "2025-02-20 23:48:36 +0000"
@@ -6827,6 +6917,24 @@
   "meadow:recipes/fire_log": {
     "criteria": {
       "has_pine_log": "2025-02-20 23:40:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
     },
     "done": true
   },
@@ -6854,9 +6962,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/coarse_dirt_slab": {
     "criteria": {
       "has_coarse_dirt": "2025-02-20 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
     },
     "done": true
   },
@@ -6872,9 +6992,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/cheese_form": {
     "criteria": {
       "has_pine_slab": "2025-02-21 00:11:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-02-21 00:30:44 +0000"
     },
     "done": true
   },
@@ -6884,15 +7016,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/table": {
     "criteria": {
       "has_pine_planks": "2025-02-20 23:48:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/cheese_rack": {
     "criteria": {
       "has_pine_planks": "2025-02-20 23:48:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
     },
     "done": true
   },
@@ -6911,6 +7067,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-20 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
     },
     "done": true
   },
@@ -6941,6 +7103,18 @@
   "meadow:recipes/pine_door": {
     "criteria": {
       "has_pine_planks": "2025-02-20 23:48:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-21 00:28:19 +0000"
     },
     "done": true
   },

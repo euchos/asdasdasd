@@ -4813,15 +4813,45 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
+  "tconstruct:recipes/misc/common/materials_and_you": {
     "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+      "has_item": "2025-02-20 23:27:21 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+  "tconstruct:recipes/decorations/tables/tinkers_chest": {
     "criteria": {
-      "has_cherry_planks": "2025-02-20 23:47:00 +0000"
+      "has_item": "2025-02-20 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2025-02-20 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2025-02-20 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_chest": {
+    "criteria": {
+      "has_item": "2025-02-20 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_builder": {
+    "criteria": {
+      "has_item": "2025-02-20 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2025-02-20 23:27:21 +0000"
     },
     "done": true
   },
@@ -4831,21 +4861,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_needed_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/materials_and_you": {
-    "criteria": {
-      "has_item": "2025-02-20 23:27:21 +0000"
+      "has_bone_meal": "2025-02-20 23:35:37 +0000"
     },
     "done": true
   },
   "vinery:main/forbidden_fruit": {
     "criteria": {
       "apple": "2025-02-20 23:45:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-20 23:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-02-20 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-02-20 23:46:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 23:47:00 +0000"
     },
     "done": true
   },
@@ -4867,105 +4915,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/magenta_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-02-20 23:46:05 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/mangrove_wine_rack_small": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/tinkers_chest": {
-    "criteria": {
-      "has_item": "2025-02-20 23:27:21 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
-    "criteria": {
-      "has_small_magenta_industrial_lamp": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_candle": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_toilet": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/magenta_industrial_lamp": {
-    "criteria": {
-      "has_magenta_industrial_lamp": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-02-20 23:45:40 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/tables/book_substitute": {
-    "criteria": {
-      "has_item": "2025-02-20 23:27:21 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
     "criteria": {
       "has_cherry_planks": "2025-02-20 23:47:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
     "criteria": {
       "has_cherry_planks": "2025-02-20 23:47:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
     },
     "done": true
   },
@@ -4987,129 +4945,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_sign": {
-    "criteria": {
-      "has_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/mangrove_wine_rack_big": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/crafting_station": {
-    "criteria": {
-      "has_item": "2025-02-20 23:27:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_toilet": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-02-20 23:47:00 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/part_chest": {
-    "criteria": {
-      "has_item": "2025-02-20 23:27:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-20 23:35:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-02-20 23:47:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_bath": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
     },
     "done": true
   },
@@ -5137,66 +4981,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-02-20 23:46:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/part_builder": {
-    "criteria": {
-      "has_item": "2025-02-20 23:27:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-02-20 23:47:00 +0000"
@@ -5209,75 +4993,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
-    "criteria": {
-      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_fence": {
-    "criteria": {
-      "has_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/magenta_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_button": {
-    "criteria": {
-      "has_planks": "2025-02-20 23:50:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-02-20 23:47:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
     "criteria": {
       "has_cherry_planks": "2025-02-20 23:47:00 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
-    "criteria": {
-      "has_item": "2025-02-20 23:27:21 +0000"
     },
     "done": true
   },
@@ -5293,15 +5017,303 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/mangrove_wine_rack_small": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/mangrove_wine_rack_big": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-02-20 23:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-02-20 23:50:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
+    "criteria": {
+      "has_small_magenta_industrial_lamp": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_toilet": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/magenta_industrial_lamp": {
+    "criteria": {
+      "has_magenta_industrial_lamp": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_toilet": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_bath": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/magenta_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/magenta_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-20 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-21 19:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-21 19:21:40 +0000"
     },
     "done": true
   },
