@@ -2191,9 +2191,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-02-20 23:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
     },
     "done": true
   },
@@ -2212,6 +2224,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-20 23:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
     },
     "done": true
   },
@@ -2338,6 +2356,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-20 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
     },
     "done": true
   },
@@ -2539,6 +2563,18 @@
   "botania:recipes/decorations/lime_shiny_flower": {
     "criteria": {
       "has_item": "2025-02-20 23:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
     },
     "done": true
   },
@@ -2800,6 +2836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-20 23:28:01 +0000"
@@ -2890,6 +2932,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-02-21 00:19:40 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/can": {
     "criteria": {
       "has_iron_ingot": "2025-02-20 23:29:23 +0000"
@@ -2935,6 +2983,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
     "criteria": {
       "has_oak_planks": "2025-02-20 23:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
     },
     "done": true
   },
@@ -3034,6 +3088,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-21 00:19:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-02-20 23:29:23 +0000"
@@ -3130,6 +3190,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-20 23:29:23 +0000"
@@ -3139,6 +3205,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-02-20 23:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
     },
     "done": true
   },
@@ -3652,6 +3724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-02-21 00:09:13 +0000"
@@ -4034,7 +4112,8 @@
     "criteria": {
       "cooked_mutton": "2025-02-20 23:19:46 +0000",
       "apple": "2025-02-20 23:09:42 +0000",
-      "mutton": "2025-02-20 23:08:51 +0000"
+      "mutton": "2025-02-20 23:08:51 +0000",
+      "carrot": "2025-02-21 00:22:27 +0000"
     },
     "done": false
   },
@@ -4047,6 +4126,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-02-20 23:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-21 00:19:40 +0000"
     },
     "done": true
   },

@@ -6250,3 +6250,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [21Feb2025 00:17:01.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Feb2025 00:17:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Zombie
 [21Feb2025 00:18:00.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Zombie
+[21Feb2025 00:19:40.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Diamonds!]
+[21Feb2025 00:20:23.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[21Feb2025 00:20:31.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Skeleton
+[21Feb2025 00:22:01.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 00:22:01.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 00:23:55.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was blown up by Creeper
+[21Feb2025 00:27:01.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 00:27:01.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
