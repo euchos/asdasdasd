@@ -6170,3 +6170,68 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [20Feb2025 23:37:14.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10447, y=65, z=5335} BlockPos{x=10447, y=63, z=5336}
 [20Feb2025 23:37:14.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10447, y=65, z=5335} BlockPos{x=10447, y=63, z=5336}
 [20Feb2025 23:37:33.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Isn't It Iron Pick]
+[20Feb2025 23:38:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:38:35.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:39:32.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:39:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:40:14.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:40:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:40:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:40:57.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:41:46.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=75, z=755} BlockPos{x=159, y=75, z=755}
+[20Feb2025 23:41:46.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=75, z=755} BlockPos{x=159, y=75, z=755}
+[20Feb2025 23:41:52.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Carbon Footprint]
+[20Feb2025 23:42:01.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:42:01.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 23:44:45.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:44:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Cave Spider
+[20Feb2025 23:44:54.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:45:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Forbidden Fruit]
+[20Feb2025 23:46:24.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:46:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:46:39.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10452, y=64, z=5355} BlockPos{x=10452, y=63, z=5354}
+[20Feb2025 23:46:39.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10452, y=64, z=5355} BlockPos{x=10452, y=63, z=5354}
+[20Feb2025 23:46:39.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10452, y=64, z=5355} BlockPos{x=10452, y=63, z=5354}
+[20Feb2025 23:46:52.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10457, y=65, z=5342} BlockPos{x=10455, y=63, z=5341}
+[20Feb2025 23:46:52.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10457, y=65, z=5342} BlockPos{x=10455, y=63, z=5341}
+[20Feb2025 23:47:01.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:47:01.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 23:47:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:47:04.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:47:18.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[20Feb2025 23:47:29.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:47:45.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[20Feb2025 23:48:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported NegritoV to LaloChock]
+[20Feb2025 23:48:42.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:51:05.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[20Feb2025 23:51:10.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:51:19.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:51:20.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:51:47.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoyoXF> wdaqwdaqdadazsdas
+[20Feb2025 23:52:01.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:52:01.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 23:53:46.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[20Feb2025 23:53:49.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[20Feb2025 23:53:49.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Bonfire Lit]
+[20Feb2025 23:53:55.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[20Feb2025 23:55:08.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NegritoV: Location (10412.167196467519, 66.5340279340744, 5391.000625014305) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:55:08.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NegritoV: Location (10412.167196467519, 66.5340279340744, 5391.000625014305) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:55:17.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NegritoV: Location (10412.0, 66.6453143954277, 5391.031751930714) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:55:17.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NegritoV: Location (10412.0, 66.6453143954277, 5391.031751930714) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:55:18.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> xdd
+[20Feb2025 23:55:25.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LaloChock: Location (10413.0, 66.60699433088303, 5391.384787976742) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:55:25.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LaloChock: Location (10413.0, 66.60699433088303, 5391.384787976742) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:55:34.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NegritoV: Location (10412.320998072624, 66.52868729829788, 5391.000625014305) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:55:34.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from NegritoV: Location (10412.320998072624, 66.52868729829788, 5391.000625014305) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:57:00.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dedman95: Location (10413.0, 66.51688021421432, 5391.292827665806) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:57:00.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dedman95: Location (10413.0, 66.51688021421432, 5391.292827665806) too far away from hit block BlockPos{x=10412, y=66, z=5392}.
+[20Feb2025 23:57:01.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:57:01.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 00:01:45.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Alpine Paradise]
+[21Feb2025 00:02:01.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 00:02:01.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 00:03:17.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[21Feb2025 00:04:44.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Forbidden Fruit]
+[21Feb2025 00:07:01.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 00:07:01.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 00:07:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton

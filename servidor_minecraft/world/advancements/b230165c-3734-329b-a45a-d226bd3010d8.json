@@ -55,6 +55,7 @@
       "minecraft:stony_shore": "2025-02-20 23:13:21 +0000",
       "minecraft:forest": "2025-02-20 21:48:32 +0000",
       "minecraft:ocean": "2025-02-20 23:05:54 +0000",
+      "minecraft:meadow": "2025-02-21 00:01:45 +0000",
       "minecraft:plains": "2025-02-20 21:49:06 +0000"
     },
     "done": false
@@ -2112,6 +2113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-20 23:37:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-20 23:14:44 +0000"
@@ -2256,9 +2263,21 @@
     },
     "done": true
   },
+  "meadow:recipes/woodcutter": {
+    "criteria": {
+      "has_pine_log": "2025-02-20 23:52:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/magenta_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-20 23:09:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-02-20 23:53:49 +0000"
     },
     "done": true
   },
@@ -2522,6 +2541,12 @@
     },
     "done": true
   },
+  "meadow:recipes/frame": {
+    "criteria": {
+      "has_campfire": "2025-02-20 23:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-20 23:29:23 +0000"
@@ -2648,6 +2673,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_purple_double": {
+    "criteria": {
+      "has_item": "2025-02-20 23:47:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2025-02-20 23:29:23 +0000"
@@ -2747,6 +2778,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-02-20 23:10:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-20 23:40:19 +0000"
     },
     "done": true
   },
@@ -2858,6 +2895,12 @@
     },
     "done": true
   },
+  "meadow:main/find_meadow": {
+    "criteria": {
+      "meadow": "2025-02-21 00:01:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_default": {
     "criteria": {
       "has_item": "2025-02-20 23:19:50 +0000"
@@ -2873,6 +2916,12 @@
   "meadow:recipes/umbra_bed": {
     "criteria": {
       "has_oak_planks": "2025-02-20 23:10:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2025-02-20 23:40:19 +0000"
     },
     "done": true
   },
@@ -3026,6 +3075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-20 23:37:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
     "criteria": {
       "has_magenta_dye": "2025-02-20 23:09:06 +0000"
@@ -3053,6 +3108,12 @@
   "botania:recipes/misc/petal_lime_double": {
     "criteria": {
       "has_alt_item": "2025-02-20 23:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-20 23:37:33 +0000"
     },
     "done": true
   },
@@ -3113,6 +3174,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-02-20 23:28:01 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_wood": {
+    "criteria": {
+      "has_pine_log": "2025-02-20 23:52:40 +0000"
     },
     "done": true
   },
@@ -3215,6 +3282,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_oak_planks": "2025-02-20 23:10:06 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/fire_log": {
+    "criteria": {
+      "has_pine_log": "2025-02-20 23:52:40 +0000"
     },
     "done": true
   },
@@ -3476,6 +3549,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-02-20 23:53:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
     "criteria": {
       "has_iron_ingot": "2025-02-20 23:29:23 +0000"
@@ -3647,6 +3726,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-20 23:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-20 23:37:33 +0000"
     },
     "done": true
   },
