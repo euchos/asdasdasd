@@ -666,3 +666,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [22Feb2025 02:09:56.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
 [22Feb2025 02:10:46.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
 [22Feb2025 02:10:49.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[22Feb2025 02:14:34.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.3.110.128:60667] logged in with entity id 2266 at (10433.401918108184, 67.0, 5451.6986755885655)
+[22Feb2025 02:14:34.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[22Feb2025 02:17:21.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to Dedman95]
+[22Feb2025 02:18:41.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Pillager
+[22Feb2025 02:19:03.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Voluntary Exile]
+[22Feb2025 02:19:04.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Pillager
+[22Feb2025 02:19:33.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Pillager
+[22Feb2025 02:20:09.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> Dedman95
+[22Feb2025 02:20:14.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> LaloChock
+[22Feb2025 02:20:47.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[22Feb2025 02:20:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
