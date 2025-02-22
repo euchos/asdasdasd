@@ -1399,6 +1399,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-22 02:18:05 +0000",
       "minecraft:skeleton": "2025-02-20 22:50:23 +0000",
       "minecraft:spider": "2025-02-20 22:50:58 +0000",
       "minecraft:witch": "2025-02-20 22:36:00 +0000",
@@ -3054,7 +3055,8 @@
     "criteria": {
       "cooked_mutton": "2025-02-20 22:48:46 +0000",
       "apple": "2025-02-21 00:10:36 +0000",
-      "bread": "2025-02-20 23:32:35 +0000"
+      "bread": "2025-02-20 23:32:35 +0000",
+      "golden_apple": "2025-02-22 02:18:31 +0000"
     },
     "done": false
   },
@@ -4543,6 +4545,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-02-21 00:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-22 02:19:03 +0000"
     },
     "done": true
   },
