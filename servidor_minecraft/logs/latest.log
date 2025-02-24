@@ -649,3 +649,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [24Feb2025 19:28:20.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
 [24Feb2025 19:29:00.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
 [24Feb2025 19:29:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[24Feb2025 19:30:36.410] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4a20b986[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:55265): Took too long to log in
+[24Feb2025 19:30:36.412] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a20b986[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:55265) lost connection: Took too long to log in
+[24Feb2025 19:30:36.456] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Feb2025 19:31:32.208] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15e5d2f9[id=<null>,name=Dedman95,properties={},legacy=false] (/127.5.134.82:34999) lost connection: Timed out
+[24Feb2025 19:31:39.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.5.134.82:46241] logged in with entity id 18765 at (10434.5, 67.0, 5454.5)
+[24Feb2025 19:31:39.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[24Feb2025 19:31:50.205] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@48b87a72[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:48365): Took too long to log in
+[24Feb2025 19:31:50.206] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48b87a72[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:48365) lost connection: Took too long to log in
+[24Feb2025 19:31:50.254] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Feb2025 19:33:19.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:41197] logged in with entity id 22378 at (10498.239766077015, 113.0, 5525.915895152907)
+[24Feb2025 19:33:19.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[24Feb2025 19:35:30.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[24Feb2025 19:35:30.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[24Feb2025 19:37:34.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:51445] logged in with entity id 28498 at (10498.239766077015, 113.0, 5525.915895152907)
+[24Feb2025 19:37:34.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[24Feb2025 19:39:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported NegritoV to LaloChock]

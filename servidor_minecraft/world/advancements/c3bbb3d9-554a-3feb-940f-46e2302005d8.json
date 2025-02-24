@@ -3952,6 +3952,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-02-24 19:25:46 +0000",
       "wheat": "2025-02-20 02:28:15 +0000"
     },
     "done": false
@@ -5321,6 +5322,18 @@
   "vinery:recipes/coarse_dirt_slab": {
     "criteria": {
       "has_coarse_dirt": "2025-02-22 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2025-02-24 19:30:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-24 19:30:20 +0000"
     },
     "done": true
   },
