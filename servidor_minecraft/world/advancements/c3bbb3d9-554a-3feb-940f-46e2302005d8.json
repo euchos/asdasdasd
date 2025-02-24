@@ -5396,9 +5396,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-24 21:02:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-02-24 20:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-24 21:03:39 +0000"
     },
     "done": true
   },
@@ -5486,6 +5498,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-24 21:05:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-02-24 20:42:29 +0000"
@@ -5513,6 +5531,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-02-24 20:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-24 21:03:39 +0000"
     },
     "done": true
   },
@@ -5660,8 +5684,15 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-24 21:02:53 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/ancient_tools": {
     "criteria": {
+      "battlesign": "2025-02-24 21:02:57 +0000",
       "swasher": "2025-02-24 20:42:25 +0000"
     },
     "done": false
@@ -5699,6 +5730,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-24 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-02-24 21:02:15 +0000"
     },
     "done": true
   },
@@ -5798,6 +5835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-24 21:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-02-24 20:32:21 +0000"
@@ -5834,6 +5877,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/light_blue_shiny_flower": {
     "criteria": {
       "has_item": "2025-02-24 20:08:38 +0000"
@@ -5849,6 +5898,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-24 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-24 21:03:39 +0000"
     },
     "done": true
   },
@@ -5945,10 +6000,17 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "manyullyn": "2025-02-24 20:42:25 +0000",
+      "rose_gold": "2025-02-24 21:02:57 +0000",
       "bone": "2025-02-24 20:42:25 +0000",
       "iron": "2025-02-24 20:42:25 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-24 21:02:08 +0000"
+    },
+    "done": true
   },
   "botania:recipes/misc/petal_yellow": {
     "criteria": {
@@ -5971,6 +6033,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-24 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
+    "criteria": {
+      "has_item": "2025-02-24 21:02:15 +0000"
     },
     "done": true
   },
@@ -6001,6 +6069,12 @@
   "tconstruct:tools/netherite_tier": {
     "criteria": {
       "harvest_level": "2025-02-24 20:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-24 21:02:25 +0000"
     },
     "done": true
   },

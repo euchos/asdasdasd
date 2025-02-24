@@ -2133,6 +2133,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "magma_cream": "2025-02-24 21:04:46 +0000",
       "earth": "2025-02-19 23:14:06 +0000"
     },
     "done": false
@@ -7119,15 +7120,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
+      "has_redstone_block": "2025-02-24 19:21:33 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_any_ingredient": "2025-02-24 19:55:11 +0000"
+      "has_redstone_block": "2025-02-24 19:21:33 +0000"
     },
     "done": true
   },
@@ -7137,34 +7138,15 @@
     },
     "done": true
   },
-  "botania:recipes/tools/speed_up_belt": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_alt_item": "2025-02-24 20:16:12 +0000"
+      "has_smooth_stone": "2025-02-24 19:23:29 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "has_any_ingredient": "2025-02-24 19:55:11 +0000"
-    },
-    "done": true
-  },
-  "botania:main/bauble_wear": {
-    "criteria": {
-      "code_triggered": "2025-02-24 20:16:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-02-24 20:54:52 +0000",
-      "minecraft:basalt_deltas": "2025-02-24 20:59:58 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 19:55:11 +0000"
+      "has_smooth_stone": "2025-02-24 19:23:29 +0000"
     },
     "done": true
   },
@@ -7174,87 +7156,15 @@
     },
     "done": true
   },
-  "botania:recipes/misc/quartz_lavender": {
-    "criteria": {
-      "has_item": "2025-02-24 20:57:59 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/gray_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-24 19:29:41 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/black_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-02-24 20:29:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-02-24 19:52:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-02-24 20:29:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_granite": {
-    "criteria": {
-      "has_quartz": "2025-02-24 20:57:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-02-24 20:57:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-02-24 20:57:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-02-24 20:57:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_candle": {
     "criteria": {
       "has_gray_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dirt_rod": {
-    "criteria": {
-      "has_item": "2025-02-24 19:59:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-02-24 19:44:42 +0000"
     },
     "done": true
   },
@@ -7270,15 +7180,207 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "refurbished_furniture:recipes/decorations/gray_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
-      "has_quartz": "2025-02-24 20:57:59 +0000"
+      "has_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_bath": {
+    "criteria": {
+      "has_gray_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_toilet": {
+    "criteria": {
+      "has_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_gray_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_toilet": {
+    "criteria": {
+      "has_gray_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
+    "criteria": {
+      "has_gray_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_gray_industrial_lamp": {
+    "criteria": {
+      "has_small_gray_industrial_lamp": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gray_industrial_lamp": {
+    "criteria": {
+      "has_gray_industrial_lamp": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
+    "criteria": {
+      "has_gray_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-24 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_gray_dye": "2025-02-24 19:29:41 +0000"
     },
     "done": true
   },
   "botania:recipes/combat/terrasteel_leggings": {
     "criteria": {
       "has_prev_tier": "2025-02-24 19:35:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_boots": {
+    "criteria": {
+      "has_prev_tier": "2025-02-24 19:35:05 +0000"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "altar": "2025-02-24 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_alt_item": "2025-02-24 19:40:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-02-24 19:44:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/bellows": {
+    "criteria": {
+      "has_item": "2025-02-24 19:47:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/terra_plate": {
+    "criteria": {
+      "has_item": "2025-02-24 19:47:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/slingshot": {
+    "criteria": {
+      "has_item": "2025-02-24 19:47:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tornado_rod": {
+    "criteria": {
+      "has_item": "2025-02-24 19:47:17 +0000"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2025-02-24 19:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-24 19:52:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 19:55:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 19:55:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 19:55:11 +0000"
     },
     "done": true
   },
@@ -7315,66 +7417,6 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2025-02-24 19:55:11 +0000"
-    },
-    "done": true
-  },
-  "botania:main/runic_altar_pickup": {
-    "criteria": {
-      "altar": "2025-02-24 19:38:30 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/bellows": {
-    "criteria": {
-      "has_item": "2025-02-24 19:47:17 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-02-24 19:21:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/quartz_blaze": {
-    "criteria": {
-      "has_item": "2025-02-24 20:57:59 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/terra_plate": {
-    "criteria": {
-      "has_item": "2025-02-24 19:47:17 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/gray_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_bath": {
-    "criteria": {
-      "has_gray_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/terrasteel_boots": {
-    "criteria": {
-      "has_prev_tier": "2025-02-24 19:35:05 +0000"
     },
     "done": true
   },
@@ -7438,39 +7480,69 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/animated_torch": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_alt_item": "2025-02-24 19:40:36 +0000"
+      "has_brown_mushroom": "2025-02-24 19:55:11 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/gray_toilet": {
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
-      "has_dye": "2025-02-24 19:29:41 +0000"
+      "has_any_ingredient": "2025-02-24 19:55:11 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/gray_kitchen_sink_from_dyeing": {
+  "botania:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_dye": "2025-02-24 19:29:41 +0000"
+      "has_orig_recipe": "2025-02-24 19:55:11 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_gray_dye": "2025-02-24 19:29:41 +0000"
+      "has_brown_mushroom": "2025-02-24 19:55:11 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/quartz_dark": {
+  "botania:recipes/tools/dirt_rod": {
     "criteria": {
-      "has_item": "2025-02-24 20:57:59 +0000"
+      "has_item": "2025-02-24 19:59:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/temperance_stone": {
+    "criteria": {
+      "has_item": "2025-02-24 19:59:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_alt_item": "2025-02-24 20:16:12 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-02-24 20:16:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-24 20:29:33 +0000"
     },
     "done": true
   },
   "botania:recipes/misc/petal_black": {
     "criteria": {
       "has_item": "2025-02-24 20:29:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-02-24 20:29:53 +0000"
     },
     "done": true
   },
@@ -7486,15 +7558,78 @@
     },
     "done": true
   },
-  "botania:recipes/tools/slingshot": {
+  "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
-      "has_item": "2025-02-24 19:47:17 +0000"
+      "fried_egg": "2025-02-24 20:29:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
+      "entered_nether": "2025-02-24 20:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-24 20:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-24 21:02:38 +0000",
+      "minecraft:nether_wastes": "2025-02-24 20:54:52 +0000",
+      "minecraft:soul_sand_valley": "2025-02-24 21:02:54 +0000",
+      "minecraft:basalt_deltas": "2025-02-24 20:59:58 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-02-24 20:57:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-02-24 20:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-24 20:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-24 20:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-24 20:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-24 20:57:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-02-24 20:57:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-02-24 20:57:59 +0000"
     },
     "done": true
   },
@@ -7510,111 +7645,15 @@
     },
     "done": true
   },
-  "botania:recipes/tools/temperance_stone": {
-    "criteria": {
-      "has_item": "2025-02-24 19:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-02-24 19:55:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-24 20:54:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_toilet": {
-    "criteria": {
-      "has_gray_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/gray_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-24 20:57:59 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 19:55:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/tornado_rod": {
-    "criteria": {
-      "has_item": "2025-02-24 19:47:17 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/gray_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-02-24 20:57:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/gray_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-02-24 19:21:33 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/gray_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
-    "criteria": {
-      "has_gray_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-02-24 19:23:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-02-24 19:23:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/gray_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_gray_industrial_lamp": {
-    "criteria": {
-      "has_small_gray_industrial_lamp": "2025-02-24 19:29:41 +0000"
     },
     "done": true
   },
@@ -7630,45 +7669,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/gray_industrial_lamp": {
-    "criteria": {
-      "has_gray_industrial_lamp": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_orig_recipe": "2025-02-24 19:55:11 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
     "criteria": {
       "has_item": "2025-02-24 20:57:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-02-24 20:54:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
-    "criteria": {
-      "has_gray_dye": "2025-02-24 19:29:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
     },
     "done": true
   },
@@ -7678,45 +7681,135 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/gray_grill_from_dyeing": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
-      "has_dye": "2025-02-24 19:29:41 +0000"
+      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
-      "has_brown_mushroom": "2025-02-24 19:55:11 +0000"
+      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_gray_wool": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
-      "has_needed_dye": "2025-02-24 19:29:41 +0000"
+      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_gray_bed": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
-      "has_needed_dye": "2025-02-24 19:29:41 +0000"
+      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
     },
     "done": true
   },
-  "botania:main/rune_pickup": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
-      "rune": "2025-02-24 19:47:17 +0000"
+      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
-      "has_gray_dye": "2025-02-24 19:29:41 +0000"
+      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
-      "fried_egg": "2025-02-24 20:29:53 +0000"
+      "has_polished_blackstone_bricks": "2025-02-24 20:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-24 21:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-24 21:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-24 21:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-24 21:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-02-24 21:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-24 21:00:40 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-02-24 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-24 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-24 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-24 21:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-24 21:00:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-02-24 21:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-24 21:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-24 21:04:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-02-24 21:04:46 +0000"
     },
     "done": true
   },
