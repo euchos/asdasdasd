@@ -638,3 +638,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [24Feb2025 19:15:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
 [24Feb2025 19:15:19.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported PoyoXF to LaloChock]
 [24Feb2025 19:15:23.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported NegritoV to LaloChock]
+[24Feb2025 19:24:38.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Diamond Shovel] to LaloChock]
+[24Feb2025 19:25:37.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[24Feb2025 19:27:58.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[24Feb2025 19:27:58.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[24Feb2025 19:27:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Kicked NegritoV: Kicked by an operator]
+[24Feb2025 19:27:58.756] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Feb2025 19:28:13.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:52655] logged in with entity id 13216 at (10449.178672274906, 83.17675927506424, 5519.300000011921)
+[24Feb2025 19:28:13.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[24Feb2025 19:28:20.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[24Feb2025 19:29:00.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[24Feb2025 19:29:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
