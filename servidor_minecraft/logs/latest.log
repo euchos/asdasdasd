@@ -1319,3 +1319,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [24Feb2025 21:20:16.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
 [24Feb2025 21:20:16.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
 [24Feb2025 21:20:27.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has completed the challenge [Hot Tourist Destinations]
+[24Feb2025 21:21:43.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> zzz
+[24Feb2025 21:21:43.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> z
+[24Feb2025 21:21:43.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> z
+[24Feb2025 21:21:43.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> z
+[24Feb2025 21:21:47.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> z
+[24Feb2025 21:22:00.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoyoXF moved wrongly!
+[24Feb2025 21:22:14.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoyoXF lost connection: Disconnected
+[24Feb2025 21:22:14.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF left the game
+[24Feb2025 21:22:21.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2863ad53[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:41655) lost connection: Timed out
+[24Feb2025 21:22:37.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoyoXF[/127.103.226.109:39127] logged in with entity id 155817 at (1472.1757140278048, 26.465979326754017, 665.0770482413159)
+[24Feb2025 21:22:37.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF joined the game
+[24Feb2025 21:22:37.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported PoyoXF to LaloChock]
+[24Feb2025 21:22:48.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF burned to death
+[24Feb2025 21:25:30.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF was slain by LaloChock
+[24Feb2025 21:25:33.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:25:44.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 21:25:47.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:26:03.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 21:26:11.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[24Feb2025 21:26:11.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[24Feb2025 21:26:12.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:29:26.303] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57e21229[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:48169) lost connection: Disconnected
+[24Feb2025 21:30:10.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:44405] logged in with entity id 158298 at (10527.57257396761, 63.875, 5366.9461097274625)
+[24Feb2025 21:30:10.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
