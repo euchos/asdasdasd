@@ -1254,3 +1254,68 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [24Feb2025 21:10:29.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> ZZ
 [24Feb2025 21:10:29.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> Z
 [24Feb2025 21:11:09.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set 30 experience levels on LaloChock]
+[24Feb2025 21:12:55.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [A Seedy Place]
+[24Feb2025 21:14:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:14:33.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 21:14:34.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:14:42.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 21:14:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:14:52.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 21:14:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported PoyoXF to LaloChock]
+[24Feb2025 21:15:00.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [We Need to Go Deeper]
+[24Feb2025 21:15:01.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported NegritoV to LaloChock]
+[24Feb2025 21:15:10.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:15:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 21:15:17.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:15:18.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[24Feb2025 21:15:22.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 21:15:28.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to PoyoXF]
+[24Feb2025 21:15:48.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to NegritoV]
+[24Feb2025 21:15:56.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:15:57.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 21:16:10.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 21:16:15.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 21:17:03.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[24Feb2025 21:17:03.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[24Feb2025 21:18:19.057] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4512f9c1[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:41901): Took too long to log in
+[24Feb2025 21:18:19.057] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4512f9c1[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:41901) lost connection: Took too long to log in
+[24Feb2025 21:18:19.106] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Feb2025 21:19:26.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:36767] logged in with entity id 154376 at (10527.57257396761, 63.875, 5366.9461097274625)
+[24Feb2025 21:19:26.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[24Feb2025 21:20:08.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1469, y=58, z=667} BlockPos{x=1469, y=59, z=668}
+[24Feb2025 21:20:10.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1466, y=62, z=669} BlockPos{x=1467, y=62, z=669}
+[24Feb2025 21:20:10.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1465, y=62, z=669} BlockPos{x=1467, y=62, z=669}
+[24Feb2025 21:20:10.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1465, y=62, z=670} BlockPos{x=1467, y=62, z=669}
+[24Feb2025 21:20:10.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1465, y=62, z=670} BlockPos{x=1467, y=62, z=669}
+[24Feb2025 21:20:10.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1464, y=63, z=669} BlockPos{x=1467, y=62, z=669}
+[24Feb2025 21:20:10.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1464, y=63, z=669} BlockPos{x=1467, y=62, z=669}
+[24Feb2025 21:20:10.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1464, y=63, z=669} BlockPos{x=1467, y=62, z=669}
+[24Feb2025 21:20:10.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1464, y=63, z=669} BlockPos{x=1467, y=62, z=669}
+[24Feb2025 21:20:14.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1474, y=67, z=669} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:14.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1475, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:14.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1475, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:15.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:16.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:16.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:16.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:16.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=67, z=670} BlockPos{x=1474, y=68, z=669}
+[24Feb2025 21:20:27.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has completed the challenge [Hot Tourist Destinations]
