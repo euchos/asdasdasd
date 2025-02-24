@@ -3748,7 +3748,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-02-20 02:16:35 +0000",
-      "minecraft:cow": "2025-02-20 02:08:18 +0000"
+      "minecraft:cow": "2025-02-20 02:08:18 +0000",
+      "minecraft:chicken": "2025-02-24 19:45:24 +0000"
     },
     "done": false
   },
@@ -5325,15 +5326,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-24 19:45:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_pink": {
     "criteria": {
       "has_item": "2025-02-24 19:30:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-24 19:45:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/pink_shiny_flower": {
     "criteria": {
       "has_item": "2025-02-24 19:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-24 19:45:27 +0000"
     },
     "done": true
   },

@@ -7143,6 +7143,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-02-24 19:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_gray_dye": "2025-02-24 19:29:41 +0000"
@@ -7158,6 +7164,12 @@
   "botania:recipes/combat/terrasteel_leggings": {
     "criteria": {
       "has_prev_tier": "2025-02-24 19:35:04 +0000"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "altar": "2025-02-24 19:38:30 +0000"
     },
     "done": true
   },
@@ -7182,6 +7194,12 @@
   "botania:recipes/combat/terrasteel_boots": {
     "criteria": {
       "has_prev_tier": "2025-02-24 19:35:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_alt_item": "2025-02-24 19:40:36 +0000"
     },
     "done": true
   },

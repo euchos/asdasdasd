@@ -5123,3 +5123,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [24Feb2025 19:37:34.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
 [24Feb2025 19:38:47.863] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
 [24Feb2025 19:39:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported NegritoV to LaloChock]
+[24Feb2025 19:40:31.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 19:40:31.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 19:40:45.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Spider
+[24Feb2025 19:41:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Spider
+[24Feb2025 19:41:43.576] [Server thread/DEBUG] [mixin/]: Mixing ai.task.memory_change_counting.BehaviorMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.Behavior
+[24Feb2025 19:41:43.603] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.GateBehaviorMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.GateBehavior
+[24Feb2025 19:41:43.612] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.ShufflingListMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.ShufflingList
+[24Feb2025 19:45:19.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 19:45:20.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 19:45:31.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 19:45:31.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 19:45:33.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 19:45:34.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 19:45:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:42.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:44.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:44.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:45.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:46:47.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Skeleton
+[24Feb2025 19:47:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Drop Pop Candy]

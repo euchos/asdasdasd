@@ -665,3 +665,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [24Feb2025 19:37:34.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:51445] logged in with entity id 28498 at (10498.239766077015, 113.0, 5525.915895152907)
 [24Feb2025 19:37:34.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
 [24Feb2025 19:39:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported NegritoV to LaloChock]
+[24Feb2025 19:40:45.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Spider
+[24Feb2025 19:41:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Spider
+[24Feb2025 19:45:19.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 19:45:20.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 19:45:33.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 19:45:34.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 19:45:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:42.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:44.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:44.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:45.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:45:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 1 [Feather] to LaloChock]
+[24Feb2025 19:46:47.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Skeleton
+[24Feb2025 19:47:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Drop Pop Candy]
