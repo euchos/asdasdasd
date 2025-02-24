@@ -5318,5 +5318,11 @@
     },
     "done": true
   },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-02-22 02:43:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
