@@ -6772,3 +6772,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [24Feb2025 21:40:32.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was blown up by Creeper
 [24Feb2025 21:40:33.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Feb2025 21:40:33.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 21:45:33.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 21:45:33.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 21:46:02.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [We Need to Go Deeper]
+[24Feb2025 21:46:33.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Those Were the Days]
+[24Feb2025 21:47:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Those Were the Days]
+[24Feb2025 21:48:41.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [War Pigs]
+[24Feb2025 21:48:47.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [War Pigs]
+[24Feb2025 21:48:50.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has made the advancement [Ice Bucket Challenge]
+[24Feb2025 21:49:04.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Hidden in the Depths]
+[24Feb2025 21:49:44.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF was slain by Piglin Brute
+[24Feb2025 21:50:33.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 21:50:33.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 21:50:44.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Piglin Brute
+[24Feb2025 21:50:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF was slain by Piglin Brute
+[24Feb2025 21:51:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV tried to swim in lava

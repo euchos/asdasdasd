@@ -4596,6 +4596,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-24 21:46:02 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-24 19:54:45 +0000"
@@ -4842,6 +4848,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-24 21:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-24 21:48:41 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
     "criteria": {
       "has_item": "2025-02-24 21:34:14 +0000"
@@ -5028,6 +5046,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-24 21:46:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-02-24 20:17:48 +0000"
@@ -5166,9 +5190,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-24 21:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-24 19:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-24 21:48:50 +0000"
     },
     "done": true
   },
@@ -5190,6 +5226,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-24 21:46:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-02-24 20:17:48 +0000"
@@ -5205,6 +5247,12 @@
   "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-24 20:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-24 21:48:50 +0000"
     },
     "done": true
   },
