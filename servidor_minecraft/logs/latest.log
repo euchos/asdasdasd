@@ -774,3 +774,141 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [24Feb2025 20:20:09.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10782, y=65, z=5380} BlockPos{x=10781, y=63, z=5380}
 [24Feb2025 20:20:11.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10791, y=66, z=5380} BlockPos{x=10790, y=64, z=5380}
 [24Feb2025 20:20:11.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10792, y=66, z=5380} BlockPos{x=10790, y=64, z=5380}
+[24Feb2025 20:20:12.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10492, y=110, z=5526} BlockPos{x=10434, y=62, z=5402}
+[24Feb2025 20:20:12.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10492, y=110, z=5526} BlockPos{x=10434, y=62, z=5401}
+[24Feb2025 20:20:12.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10492, y=110, z=5526} BlockPos{x=10434, y=62, z=5401}
+[24Feb2025 20:20:12.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10492, y=110, z=5526} BlockPos{x=10434, y=62, z=5401}
+[24Feb2025 20:20:12.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10492, y=110, z=5526} BlockPos{x=10435, y=62, z=5400}
+[24Feb2025 20:20:13.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10803, y=66, z=5384} BlockPos{x=10801, y=64, z=5383}
+[24Feb2025 20:20:13.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10803, y=66, z=5384} BlockPos{x=10801, y=64, z=5383}
+[24Feb2025 20:20:13.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10806, y=66, z=5387} BlockPos{x=10804, y=64, z=5386}
+[24Feb2025 20:20:13.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10806, y=66, z=5387} BlockPos{x=10804, y=64, z=5386}
+[24Feb2025 20:20:17.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10805, y=65, z=5409} BlockPos{x=10805, y=63, z=5409}
+[24Feb2025 20:20:17.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10805, y=65, z=5409} BlockPos{x=10805, y=63, z=5409}
+[24Feb2025 20:20:17.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10806, y=64, z=5410} BlockPos{x=10805, y=63, z=5409}
+[24Feb2025 20:20:17.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10808, y=64, z=5413} BlockPos{x=10808, y=62, z=5413}
+[24Feb2025 20:20:17.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10808, y=64, z=5413} BlockPos{x=10808, y=62, z=5413}
+[24Feb2025 20:20:17.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10808, y=64, z=5413} BlockPos{x=10808, y=62, z=5413}
+[24Feb2025 20:20:20.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:20:21.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10825, y=64, z=5412} BlockPos{x=10827, y=63, z=5412}
+[24Feb2025 20:20:22.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10492, y=110, z=5526} BlockPos{x=10438, y=62, z=5395}
+[24Feb2025 20:20:22.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10492, y=110, z=5526} BlockPos{x=10438, y=62, z=5395}
+[24Feb2025 20:20:22.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10492, y=110, z=5526} BlockPos{x=10438, y=62, z=5394}
+[24Feb2025 20:21:07.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10658, y=66, z=5370} BlockPos{x=10658, y=64, z=5370}
+[24Feb2025 20:21:07.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10658, y=66, z=5370} BlockPos{x=10658, y=64, z=5370}
+[24Feb2025 20:21:07.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10657, y=66, z=5370} BlockPos{x=10656, y=65, z=5369}
+[24Feb2025 20:21:07.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10657, y=66, z=5370} BlockPos{x=10656, y=65, z=5369}
+[24Feb2025 20:21:08.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10656, y=67, z=5369} BlockPos{x=10655, y=65, z=5369}
+[24Feb2025 20:21:08.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10656, y=67, z=5369} BlockPos{x=10655, y=65, z=5369}
+[24Feb2025 20:21:08.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10656, y=67, z=5369} BlockPos{x=10655, y=65, z=5369}
+[24Feb2025 20:21:15.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:21:28.932] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[24Feb2025 20:21:28.932] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[24Feb2025 20:21:32.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:21:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:23:24.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Ice Bucket Challenge]
+[24Feb2025 20:23:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:23:39.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:23:46.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:23:55.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:25:26.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:25:39.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:25:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:25:50.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:25:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:25:59.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:26:04.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:26:09.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:26:31.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:26:52.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:27:05.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:27:58.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:29:24.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10331, y=120, z=4602} BlockPos{x=10331, y=118, z=4602}
+[24Feb2025 20:31:04.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10197, y=117, z=4632} BlockPos{x=10196, y=115, z=4632}
+[24Feb2025 20:31:05.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10197, y=116, z=4633} BlockPos{x=10195, y=115, z=4633}
+[24Feb2025 20:31:06.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10195, y=116, z=4630} BlockPos{x=10192, y=115, z=4630}
+[24Feb2025 20:31:06.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10195, y=116, z=4630} BlockPos{x=10192, y=115, z=4630}
+[24Feb2025 20:31:33.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:31:39.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:32:06.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Gave 5 [Black Wool] to LaloChock]
+[24Feb2025 20:33:39.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Not Today, Thank You]
+[24Feb2025 20:35:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:35:15.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:35:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was blown up by Creeper
+[24Feb2025 20:35:35.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Zombie
+[24Feb2025 20:35:37.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:35:45.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:36:17.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10694, y=68, z=5343} BlockPos{x=10694, y=66, z=5342}
+[24Feb2025 20:37:07.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:37:25.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:37:31.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:37:42.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:37:51.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:38:20.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:38:24.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10875, y=65, z=5295} BlockPos{x=10875, y=63, z=5298}
+[24Feb2025 20:38:24.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10875, y=65, z=5295} BlockPos{x=10875, y=63, z=5298}
+[24Feb2025 20:38:25.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10876, y=64, z=5294} BlockPos{x=10874, y=63, z=5295}
+[24Feb2025 20:38:27.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10872, y=65, z=5294} BlockPos{x=10873, y=63, z=5295}
+[24Feb2025 20:38:27.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10872, y=65, z=5294} BlockPos{x=10873, y=63, z=5295}
+[24Feb2025 20:38:27.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:38:35.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:39:04.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:39:16.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV burned to death
+[24Feb2025 20:39:18.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:39:58.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:40:04.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:40:19.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Applied effect Haste to LaloChock]
+[24Feb2025 20:41:03.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Skeleton
+[24Feb2025 20:41:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF was shot by Skeleton
+[24Feb2025 20:41:45.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:41:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:42:05.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:42:10.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:42:25.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has reached the goal [Netherite Tier]
+[24Feb2025 20:42:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:42:32.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:42:59.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was blown up by Creeper
+[24Feb2025 20:43:35.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:43:40.074] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[24Feb2025 20:43:40.075] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[24Feb2025 20:44:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:44:38.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Zombie
+[24Feb2025 20:44:39.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:44:53.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:45:26.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:45:32.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:45:42.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:45:45.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:47:33.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was blown up by Creeper
+[24Feb2025 20:47:46.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[24Feb2025 20:48:31.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Zombie
+[24Feb2025 20:48:38.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:50:00.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[24Feb2025 20:50:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:50:25.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[24Feb2025 20:50:27.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:50:43.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 fell from a high place
+[24Feb2025 20:51:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[24Feb2025 20:51:03.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has completed the challenge [The Water Buffalo Challenge]
+[24Feb2025 20:51:17.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:51:28.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to PoyoXF]
+[24Feb2025 20:51:40.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10473, y=68, z=5459} BlockPos{x=10474, y=67, z=5457}
+[24Feb2025 20:51:40.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10473, y=68, z=5459} BlockPos{x=10474, y=67, z=5457}
+[24Feb2025 20:51:41.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10471, y=68, z=5460} BlockPos{x=10471, y=67, z=5456}
+[24Feb2025 20:51:41.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10471, y=68, z=5460} BlockPos{x=10471, y=67, z=5456}
+[24Feb2025 20:52:02.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to 10010.640000, 72.000000, 2756.790000]
+[24Feb2025 20:52:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to PoyoXF]
+[24Feb2025 20:52:35.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to 10010.640000, 72.000000, 2756.790000]
+[24Feb2025 20:53:06.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:53:52.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:54:00.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:54:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:54:08.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:54:33.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[24Feb2025 20:54:48.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [Cherry Picker]
+[24Feb2025 20:54:50.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [We Need to Go Deeper]
+[24Feb2025 20:54:51.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
+[24Feb2025 20:55:16.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[24Feb2025 20:57:58.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1280, y=50, z=711} BlockPos{x=1280, y=50, z=710}
+[24Feb2025 20:58:21.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Those Were the Days]
+[24Feb2025 21:00:37.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [War Pigs]
