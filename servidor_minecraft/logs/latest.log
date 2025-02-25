@@ -808,3 +808,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [25Feb2025 02:26:44.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10433, y=65, z=5453} BlockPos{x=10437, y=62, z=5425}
 [25Feb2025 02:26:45.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10433, y=65, z=5453} BlockPos{x=10436, y=62, z=5425}
 [25Feb2025 02:27:28.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10433, y=65, z=5453} BlockPos{x=10440, y=62, z=5424}
+[25Feb2025 02:29:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 02:29:38.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 02:29:47.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 02:29:54.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 02:30:35.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: slouhh[/127.17.115.207:45503] logged in with entity id 89945 at (10429.357024937308, 65.0, 5371.334477418304)
+[25Feb2025 02:30:35.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slouhh joined the game
+[25Feb2025 02:31:25.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [A Terrible Fortress]
+[25Feb2025 02:32:34.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slouhh has made the advancement [Acquire Hardware]
+[25Feb2025 02:34:58.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10525, y=64, z=5327} BlockPos{x=10523, y=62, z=5324}
+[25Feb2025 02:34:58.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10525, y=64, z=5327} BlockPos{x=10523, y=62, z=5324}
+[25Feb2025 02:35:38.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slouhh has made the advancement [Cherry Picker]
+[25Feb2025 02:36:27.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10576, y=64, z=5324} BlockPos{x=10573, y=63, z=5323}
+[25Feb2025 02:36:27.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10576, y=64, z=5324} BlockPos{x=10573, y=63, z=5323}
+[25Feb2025 02:36:27.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10576, y=64, z=5324} BlockPos{x=10573, y=63, z=5323}
+[25Feb2025 02:36:27.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10576, y=64, z=5324} BlockPos{x=10573, y=63, z=5323}
+[25Feb2025 02:36:27.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10575, y=65, z=5323} BlockPos{x=10573, y=63, z=5323}
+[25Feb2025 02:36:27.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10575, y=65, z=5323} BlockPos{x=10573, y=63, z=5323}
+[25Feb2025 02:37:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slouhh has made the advancement [Stone Age]
+[25Feb2025 02:38:48.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slouhh has made the advancement [Getting an Upgrade]
+[25Feb2025 02:44:57.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported slouhh to LaloChock]
