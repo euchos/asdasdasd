@@ -4421,51 +4421,15 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "meadow:main/get_salt": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-02-25 15:11:58 +0000"
+      "salt": "2025-02-25 14:43:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-02-25 14:51:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/virus_nullodermal": {
-    "criteria": {
-      "has_alt_item": "2025-02-25 15:34:31 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/woodcutter": {
-    "criteria": {
-      "has_pine_log": "2025-02-25 14:52:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "tomato": "2025-02-25 15:38:28 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
-    "criteria": {
-      "has_item": "2025-02-25 15:12:14 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_planks": {
-    "criteria": {
-      "has_the_recipe": "2025-02-25 15:03:58 +0000"
-    },
-    "done": true
-  },
-  "meadow:main/get_salt": {
-    "criteria": {
-      "salt": "2025-02-25 14:43:11 +0000"
     },
     "done": true
   },
@@ -4475,21 +4439,15 @@
     },
     "done": true
   },
-  "meadow:recipes/pine_wood": {
+  "meadow:recipes/woodcutter": {
     "criteria": {
       "has_pine_log": "2025-02-25 14:52:38 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/safety_net": {
+  "meadow:recipes/pine_wood": {
     "criteria": {
-      "has_rope": "2025-02-25 15:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-25 15:11:58 +0000"
+      "has_pine_log": "2025-02-25 14:52:38 +0000"
     },
     "done": true
   },
@@ -4499,9 +4457,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
+  "meadow:recipes/pine_planks": {
     "criteria": {
-      "has_creeper_head": "2025-02-25 15:15:48 +0000"
+      "has_the_recipe": "2025-02-25 15:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-25 15:11:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-25 15:11:58 +0000"
     },
     "done": true
   },
@@ -4511,9 +4481,64 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-02-25 15:12:14 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
     "criteria": {
       "has_item": "2025-02-25 15:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-02-25 15:15:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-02-25 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-25 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-02-25 15:38:28 +0000"
+    },
+    "done": false
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-02-25 15:58:33 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-02-25 15:58:33 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-02-25 15:58:33 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-02-25 15:58:33 +0000",
+      "inv_changed-diamond": "2025-02-25 15:58:33 +0000"
     },
     "done": true
   },

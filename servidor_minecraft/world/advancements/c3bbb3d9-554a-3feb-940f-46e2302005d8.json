@@ -6889,13 +6889,13 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "deflected_projectile": "2025-02-25 15:03:51 +0000"
+      "has_poppy": "2025-02-25 14:49:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-25 14:49:04 +0000"
     },
@@ -6907,15 +6907,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_poppy": "2025-02-25 14:49:04 +0000"
+      "has_azure_bluet": "2025-02-25 15:01:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_bow": "2025-02-25 15:21:40 +0000"
+      "deflected_projectile": "2025-02-25 15:03:51 +0000"
     },
     "done": true
   },
@@ -6937,15 +6937,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-25 15:21:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-02-25 15:21:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "toms_storage:unlock_glowstone": {
     "criteria": {
-      "has_azure_bluet": "2025-02-25 15:01:11 +0000"
+      "inv_changed-glowstone": "2025-02-25 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-02-25 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-02-25 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-02-25 15:57:38 +0000",
+      "inv_changed-diamond": "2025-02-25 15:57:38 +0000"
     },
     "done": true
   },
