@@ -7982,9 +7982,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-25 03:03:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/aura_ring": {
+    "criteria": {
+      "has_item": "2025-02-25 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-25 03:03:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-02-25 02:12:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_item": "2025-02-25 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-25 03:03:16 +0000"
     },
     "done": true
   },
@@ -7994,15 +8048,39 @@
     },
     "done": true
   },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-25 02:31:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-02-25 03:10:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/fire_rod": {
     "criteria": {
       "has_item": "2025-02-25 02:39:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-25 03:03:16 +0000"
     },
     "done": true
   },
@@ -8015,6 +8093,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-02-25 02:32:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2025-02-25 02:53:50 +0000"
     },
     "done": true
   },
@@ -8048,9 +8132,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-25 03:05:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/common/slime/ichor/crystal_block": {
     "criteria": {
       "has_item": "2025-02-25 02:18:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:50 +0000"
     },
     "done": true
   },
@@ -8063,6 +8165,12 @@
   "botania:recipes/tools/water_rod": {
     "criteria": {
       "has_item": "2025-02-25 02:53:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_item": "2025-02-25 02:53:50 +0000"
     },
     "done": true
   },
