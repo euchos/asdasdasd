@@ -7994,15 +7994,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-25 03:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-25 03:56:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-25 03:03:16 +0000"
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-25 03:48:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/abstruse_platform": {
     "criteria": {
       "has_item": "2025-02-25 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-25 03:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-25 03:56:44 +0000"
     },
     "done": true
   },
@@ -8030,6 +8060,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/spark_upgrade_dispersive": {
+    "criteria": {
+      "has_alt_item": "2025-02-25 03:57:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/brewery": {
     "criteria": {
       "has_item": "2025-02-25 02:56:06 +0000"
@@ -8039,6 +8075,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-02-25 03:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-25 03:56:44 +0000"
     },
     "done": true
   },
@@ -8060,6 +8102,12 @@
     },
     "done": true
   },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2025-02-25 03:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-02-25 03:10:24 +0000"
@@ -8069,6 +8117,12 @@
   "botania:recipes/combat/fire_rod": {
     "criteria": {
       "has_item": "2025-02-25 02:39:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/slime/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-25 03:56:44 +0000"
     },
     "done": true
   },
@@ -8090,15 +8144,39 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_blue_double": {
+    "criteria": {
+      "has_alt_item": "2025-02-25 03:57:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/spark_upgrade_isolated": {
+    "criteria": {
+      "has_alt_item": "2025-02-25 03:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-02-25 02:32:40 +0000"
     },
     "done": true
   },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-02-25 03:48:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/tiny_planet_block": {
     "criteria": {
       "has_alt_item": "2025-02-25 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-02-25 03:56:44 +0000"
     },
     "done": true
   },
@@ -8120,6 +8198,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/spark_upgrade_dominant": {
+    "criteria": {
+      "has_alt_item": "2025-02-25 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/spark_upgrade_recessive": {
+    "criteria": {
+      "has_alt_item": "2025-02-25 03:57:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/slime/ichor/crystal_smelting": {
     "criteria": {
       "has_crystal": "2025-02-25 02:18:16 +0000"
@@ -8129,6 +8219,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-02-25 02:37:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_blue": {
+    "criteria": {
+      "has_item": "2025-02-25 03:57:35 +0000"
     },
     "done": true
   },
@@ -8162,9 +8258,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-25 03:48:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/water_rod": {
     "criteria": {
       "has_item": "2025-02-25 02:53:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-02-25 03:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-25 03:48:46 +0000"
     },
     "done": true
   },
