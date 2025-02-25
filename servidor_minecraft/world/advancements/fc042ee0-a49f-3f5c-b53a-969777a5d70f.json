@@ -4433,11 +4433,23 @@
     },
     "done": true
   },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-02-25 15:34:31 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/woodcutter": {
     "criteria": {
       "has_pine_log": "2025-02-25 14:52:38 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-02-25 15:38:28 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
     "criteria": {
@@ -4466,6 +4478,12 @@
   "meadow:recipes/pine_wood": {
     "criteria": {
       "has_pine_log": "2025-02-25 14:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-25 15:38:15 +0000"
     },
     "done": true
   },
