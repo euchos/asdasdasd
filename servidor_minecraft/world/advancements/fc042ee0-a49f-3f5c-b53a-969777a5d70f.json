@@ -4420,9 +4420,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-25 14:51:33 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/woodcutter": {
+    "criteria": {
+      "has_pine_log": "2025-02-25 14:52:38 +0000"
+    },
+    "done": true
+  },
   "meadow:main/get_salt": {
     "criteria": {
       "salt": "2025-02-25 14:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-25 14:51:33 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_wood": {
+    "criteria": {
+      "has_pine_log": "2025-02-25 14:52:38 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/fire_log": {
+    "criteria": {
+      "has_pine_log": "2025-02-25 14:52:38 +0000"
     },
     "done": true
   },
