@@ -4517,6 +4517,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-25 16:06:00 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-02-25 15:58:33 +0000"
@@ -4532,6 +4538,18 @@
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-02-25 15:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-25 16:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-25 16:06:00 +0000"
     },
     "done": true
   },
