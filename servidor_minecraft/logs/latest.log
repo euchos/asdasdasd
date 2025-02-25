@@ -787,3 +787,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Feb2025 16:41:55.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
 [25Feb2025 16:41:55.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
 [25Feb2025 16:45:42.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10327, y=112, z=5370} BlockPos{x=10329, y=111, z=5370}
+[25Feb2025 16:52:28.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10381, y=60, z=5398} BlockPos{x=10411, y=64, z=5399}
+[25Feb2025 16:52:37.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10381, y=60, z=5398} BlockPos{x=10411, y=64, z=5399}
+[25Feb2025 16:52:44.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10381, y=60, z=5398} BlockPos{x=10411, y=64, z=5399}
+[25Feb2025 16:53:26.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis blew up
+[25Feb2025 16:56:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis was blown up by Creeper
+[25Feb2025 16:56:22.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:37641] logged in with entity id 14416 at (10406.139274073852, 70.0, 5396.661025046342)
+[25Feb2025 16:56:22.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[25Feb2025 17:00:47.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 17:00:50.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to dreaddis]
+[25Feb2025 17:00:50.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 17:01:04.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis blew up
+[25Feb2025 17:01:04.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock blew up
+[25Feb2025 17:02:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[25Feb2025 17:02:24.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 17:03:10.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 17:03:14.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 17:03:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 17:03:24.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 17:05:27.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[25Feb2025 17:05:27.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[25Feb2025 17:06:57.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.173.223.62:41883] logged in with entity id 17429 at (10432.788388506933, 65.0, 5378.862175822157)
+[25Feb2025 17:06:57.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[25Feb2025 17:07:36.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[25Feb2025 17:07:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 17:07:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 17:07:41.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 17:07:43.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 17:07:44.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
