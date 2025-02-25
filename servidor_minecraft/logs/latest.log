@@ -839,3 +839,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Feb2025 17:24:51.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
 [25Feb2025 17:25:20.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to dreaddis]
 [25Feb2025 17:26:00.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 17:31:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 17:32:32.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 17:32:33.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to dreaddis]
+[25Feb2025 17:33:13.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock moved too quickly! 0.21797352198518638,3.37500013410947,9.956359554408664
+[25Feb2025 17:33:16.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10322, y=107, z=5368} BlockPos{x=10436, y=66, z=5399}
+[25Feb2025 17:33:16.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10322, y=107, z=5368} BlockPos{x=10436, y=65, z=5399}
+[25Feb2025 17:33:20.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10322, y=107, z=5368} BlockPos{x=10436, y=66, z=5399}
+[25Feb2025 17:33:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 17:35:45.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[25Feb2025 17:35:45.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[25Feb2025 17:38:55.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44f60a7[id=<null>,name=LaloChock,properties={},legacy=false] (/127.173.223.62:57963) lost connection: Disconnected
