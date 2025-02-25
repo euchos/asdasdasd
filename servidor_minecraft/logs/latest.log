@@ -841,3 +841,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [25Feb2025 03:15:32.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slouhh has made the advancement [Monster Hunter]
 [25Feb2025 03:19:01.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: slouhh moved too quickly! -10.185401133614505,0.42355929454303975,-0.4527397637539252
 [25Feb2025 03:28:13.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Skeleton
+[25Feb2025 03:43:49.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Enderman
+[25Feb2025 03:46:27.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF was shot by Skeleton
+[25Feb2025 03:48:46.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF has made the advancement [Into Fire]
+[25Feb2025 03:49:04.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[25Feb2025 03:49:04.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
