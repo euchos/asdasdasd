@@ -6949,6 +6949,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-02-25 16:31:29 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-02-25 15:57:38 +0000"
@@ -6958,6 +6964,12 @@
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-02-25 16:14:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-02-25 16:31:29 +0000"
     },
     "done": true
   },
@@ -7015,6 +7027,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2025-02-25 16:31:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-02-25 16:31:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_blaze": {
     "criteria": {
       "has_item": "2025-02-25 16:14:56 +0000"
@@ -7051,6 +7075,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-02-25 16:31:29 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
     "criteria": {
       "has_item": "2025-02-25 16:16:26 +0000"
@@ -7069,6 +7099,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-02-25 16:31:29 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-25 16:14:56 +0000"
@@ -7078,6 +7114,12 @@
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-02-25 16:14:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-02-25 16:31:29 +0000"
     },
     "done": true
   },
@@ -7093,9 +7135,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-02-25 16:31:29 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
     "criteria": {
       "has_item": "2025-02-25 16:14:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-02-25 16:31:29 +0000"
     },
     "done": true
   },

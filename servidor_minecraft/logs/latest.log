@@ -778,3 +778,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Feb2025 16:16:23.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
 [25Feb2025 16:16:37.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to dreaddis]
 [25Feb2025 16:19:39.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to dreaddis]
+[25Feb2025 16:37:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[25Feb2025 16:37:22.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
