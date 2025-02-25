@@ -889,3 +889,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25Feb2025 17:57:24.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to dreaddis]
 [25Feb2025 17:57:33.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
 [25Feb2025 17:57:40.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 18:04:04.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 18:06:56.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[25Feb2025 18:07:55.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[25Feb2025 18:07:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
