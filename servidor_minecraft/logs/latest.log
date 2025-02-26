@@ -622,3 +622,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [26Feb2025 18:33:07.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
 [26Feb2025 18:38:46.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10378, y=64, z=5467}
 [26Feb2025 18:42:14.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[26Feb2025 18:54:02.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[26Feb2025 18:54:38.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.225.136.82:35881] logged in with entity id 2246 at (10434.150225916286, 59.0, 5461.4031917238135)
+[26Feb2025 18:54:38.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[26Feb2025 18:55:12.034] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Dedman95" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=10437, y=66, z=5460}] too quickly!
+[26Feb2025 18:58:27.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[26Feb2025 18:58:31.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[26Feb2025 18:59:22.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[26Feb2025 18:59:31.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[26Feb2025 18:59:44.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to Dedman95]
+[26Feb2025 18:59:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to 10421.300000, 14.000000, 4560.950000]
+[26Feb2025 19:02:04.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to Dedman95]
+[26Feb2025 19:02:11.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to 10388.800000, 18.000000, 4619.020000]
+[26Feb2025 19:06:49.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[26Feb2025 19:06:59.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[26Feb2025 19:07:08.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[26Feb2025 19:07:19.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
