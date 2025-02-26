@@ -4693,3 +4693,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [26Feb2025 23:12:00.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
 [26Feb2025 23:15:05.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Feb2025 23:15:05.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 23:20:05.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 23:20:05.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 23:20:37.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[26Feb2025 23:20:40.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[26Feb2025 23:21:53.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> W
+[26Feb2025 23:21:58.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> W or l
+[26Feb2025 23:22:05.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> sikma
+[26Feb2025 23:22:13.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LaloChock> sikma boi sikma boi
+[26Feb2025 23:22:17.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[26Feb2025 23:22:25.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[26Feb2025 23:22:48.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dedman95> you are not the sigma
+[26Feb2025 23:23:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[26Feb2025 23:25:05.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 23:25:05.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 23:25:07.165] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
