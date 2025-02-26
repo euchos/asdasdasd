@@ -3958,8 +3958,10 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-02-26 20:15:33 +0000",
+      "onion": "2025-02-26 20:38:40 +0000",
       "rice": "2025-02-26 20:11:19 +0000",
       "sugar_cane": "2025-02-24 19:25:46 +0000",
+      "potato": "2025-02-26 20:22:57 +0000",
       "nether_wart": "2025-02-25 15:09:09 +0000",
       "wheat": "2025-02-20 02:28:15 +0000"
     },
@@ -7335,6 +7337,12 @@
   "botania:recipes/misc/spark_upgrade_isolated": {
     "criteria": {
       "has_alt_item": "2025-02-26 19:51:23 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2025-02-26 20:41:41 +0000"
     },
     "done": true
   },
