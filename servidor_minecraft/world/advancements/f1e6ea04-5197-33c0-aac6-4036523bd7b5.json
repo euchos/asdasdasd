@@ -4368,7 +4368,8 @@
     "criteria": {
       "sugar_cane": "2025-02-20 21:32:03 +0000",
       "nether_wart": "2025-02-25 02:36:08 +0000",
-      "wheat": "2025-02-24 21:35:53 +0000"
+      "wheat": "2025-02-24 21:35:53 +0000",
+      "carrot": "2025-02-26 22:06:05 +0000"
     },
     "done": false
   },
@@ -8919,6 +8920,12 @@
     },
     "done": true
   },
+  "vinery:main/sowing_the_future": {
+    "criteria": {
+      "use_grape_seed": "2025-02-26 22:05:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-02-26 21:27:07 +0000"
@@ -8928,6 +8935,12 @@
   "botania:main/cacophonium_craft": {
     "criteria": {
       "cacophonium": "2025-02-26 21:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-26 22:06:04 +0000"
     },
     "done": true
   },
