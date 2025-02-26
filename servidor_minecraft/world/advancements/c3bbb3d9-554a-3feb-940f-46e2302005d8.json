@@ -7166,9 +7166,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "has_diamond_backpack": "2025-02-26 01:58:56 +0000"
+      "has_iron_backpack": "2025-02-26 01:58:44 +0000"
     },
     "done": true
   },
@@ -7178,9 +7178,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_iron_backpack": "2025-02-26 01:58:44 +0000"
+      "has_diamond_backpack": "2025-02-26 01:58:56 +0000"
     },
     "done": true
   },
