@@ -5371,6 +5371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-26 23:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-02-26 22:53:53 +0000"
@@ -5380,6 +5386,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-02-26 22:53:53 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_form": {
+    "criteria": {
+      "has_pine_slab": "2025-02-26 23:01:36 +0000"
     },
     "done": true
   },
