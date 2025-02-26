@@ -7317,6 +7317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-26 20:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 19:21:28 +0000"
@@ -7395,6 +7401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-02-26 20:20:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_sword": {
     "criteria": {
       "has_item": "2025-02-26 19:39:56 +0000"
@@ -7404,6 +7416,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-02-26 19:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-26 20:16:22 +0000"
     },
     "done": true
   },
@@ -7527,6 +7545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-26 20:16:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_normal": {
     "criteria": {
       "has_item": "2025-02-26 19:39:56 +0000"
@@ -7632,6 +7656,12 @@
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2025-02-26 19:39:56 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-02-26 20:16:22 +0000"
     },
     "done": true
   },

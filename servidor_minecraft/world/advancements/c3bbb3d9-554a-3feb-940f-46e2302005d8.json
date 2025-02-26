@@ -3957,6 +3957,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-02-26 20:15:33 +0000",
       "rice": "2025-02-26 20:11:19 +0000",
       "sugar_cane": "2025-02-24 19:25:46 +0000",
       "nether_wart": "2025-02-25 15:09:09 +0000",
