@@ -7552,6 +7552,12 @@
     },
     "done": true
   },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2025-02-26 20:42:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_normal": {
     "criteria": {
       "has_item": "2025-02-26 19:39:56 +0000"

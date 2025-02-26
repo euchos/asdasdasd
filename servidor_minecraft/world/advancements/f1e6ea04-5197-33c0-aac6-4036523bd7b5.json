@@ -8883,6 +8883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-26 20:47:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
     "criteria": {
       "has_oak_leaves": "2025-02-26 19:43:33 +0000"

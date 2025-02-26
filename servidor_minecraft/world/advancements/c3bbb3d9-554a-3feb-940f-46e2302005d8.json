@@ -3959,7 +3959,9 @@
     "criteria": {
       "cabbage": "2025-02-26 20:15:33 +0000",
       "onion": "2025-02-26 20:38:40 +0000",
+      "tomato": "2025-02-26 20:58:26 +0000",
       "rice": "2025-02-26 20:11:19 +0000",
+      "beetroot": "2025-02-26 20:58:24 +0000",
       "sugar_cane": "2025-02-24 19:25:46 +0000",
       "potato": "2025-02-26 20:22:57 +0000",
       "nether_wart": "2025-02-25 15:09:09 +0000",
@@ -7232,6 +7234,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-02-26 21:01:22 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-02-26 18:54:43 +0000"
@@ -7247,6 +7255,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-02-26 18:54:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-02-26 21:01:22 +0000"
     },
     "done": true
   },
