@@ -5353,12 +5353,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-02-26 22:53:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-02-26 22:42:34 +0000"
@@ -5371,9 +5365,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_wood_slab": "2025-02-26 23:01:36 +0000"
+      "has_smooth_stone": "2025-02-26 22:53:53 +0000"
     },
     "done": true
   },
@@ -5386,6 +5380,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-02-26 22:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-26 23:01:36 +0000"
     },
     "done": true
   },
