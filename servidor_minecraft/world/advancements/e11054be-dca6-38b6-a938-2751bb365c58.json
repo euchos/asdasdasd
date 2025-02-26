@@ -7491,6 +7491,12 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-02-26 20:04:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_distributor": {
     "criteria": {
       "has_item": "2025-02-26 19:39:56 +0000"

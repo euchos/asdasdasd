@@ -3957,6 +3957,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "rice": "2025-02-26 20:11:19 +0000",
       "sugar_cane": "2025-02-24 19:25:46 +0000",
       "nether_wart": "2025-02-25 15:09:09 +0000",
       "wheat": "2025-02-20 02:28:15 +0000"
@@ -7234,6 +7235,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 20:05:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-02-26 18:54:43 +0000"
@@ -7300,6 +7307,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-02-26 20:05:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-02-26 20:04:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-02-26 20:11:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-02-26 19:54:03 +0000"
@@ -7333,6 +7358,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-02-26 19:54:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-02-26 20:05:27 +0000"
     },
     "done": true
   },
