@@ -7186,6 +7186,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-26 19:54:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-26 18:54:43 +0000"
@@ -7258,6 +7264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-26 19:54:03 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_pants": {
     "criteria": {
       "has_item": "2025-02-26 18:54:43 +0000"
@@ -7288,6 +7300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-26 19:54:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/spark_upgrade_isolated": {
     "criteria": {
       "has_alt_item": "2025-02-26 19:51:23 +0000"
@@ -7309,6 +7327,12 @@
   "botania:recipes/misc/spark_upgrade_recessive": {
     "criteria": {
       "has_alt_item": "2025-02-26 19:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-26 19:54:03 +0000"
     },
     "done": true
   },
