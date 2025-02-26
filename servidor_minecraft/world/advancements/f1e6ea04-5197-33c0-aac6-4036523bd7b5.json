@@ -8853,6 +8853,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-02-26 21:32:09 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/purple_petal_block": {
     "criteria": {
       "has_item": "2025-02-26 19:50:22 +0000"
@@ -8862,6 +8868,12 @@
   "botania:recipes/misc/conversions/purple_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-02-26 19:50:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-02-26 21:32:09 +0000"
     },
     "done": true
   },
@@ -8883,6 +8895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-02-26 21:27:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-02-26 20:47:00 +0000"
@@ -8892,6 +8910,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
     "criteria": {
       "has_oak_leaves": "2025-02-26 19:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-26 21:27:07 +0000"
     },
     "done": true
   },
